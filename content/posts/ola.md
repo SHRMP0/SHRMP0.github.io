@@ -25,18 +25,19 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/capybara-aoe3de.png" # image path/url
-    alt: "O famigerado avatar da capivara do Age Of Empires III: Definitive Edition" # alt text
-    caption: "O famigerado avatar da capivara do Age Of Empires III: Definitive Edition" # display caption under cover
+    image: "images/caridina-woltereckae-iucn.jpg" # image path/url
+    alt: "Um camarão da espécie Caridina woltereckae." # alt text
+    caption: "Um camarão da espécie Caridina woltereckae. [Foto: C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/content"
+    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
 ## Introdução
 
 Parabéns... você **mereceria** um prêmio, se tivesse algo *importante* aqui.
 
-Volte mais tarde!
+Volte mais tarde! ~~Ou não.~~
