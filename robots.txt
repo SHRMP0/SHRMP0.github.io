@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shrmp0.com.br/sitemap.xml
