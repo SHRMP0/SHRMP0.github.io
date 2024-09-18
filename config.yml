@@ -1,0 +1,164 @@
+baseURL: "https://shrmp0.com.br/"
+title: SHRMP0
+paginate: 5
+theme: PaperMod
+
+enableEmoji: true
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: SHRMP0
+  description: "Hello, world..."
+  keywords: [Blog, Homepage, Personal]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/favicon.png"
+    favicon16x16: "/favicon16x16.png"
+    favicon32x32: "/favicon32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+  label:
+    text: "Home"
+    icon: "/apple-touch-icon.png"
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "\U0001F364 Hello, world... \U0001F990"
+    subtitle: "Em construção(?), espere coisas quebradas. Você pode me encontrar em:"
+    imageUrl: "/images/capybara-aoe3de.png"
+    imageWidth: 128
+    imageHeight: 128
+    imageTitle: "O famigerado avatar da capivara do Age Of Empires III: Definitive Edition"
+    buttons:
+      - name: Posts
+        url: /posts/
+      - name: Descubra
+        title: "Quem sabe você não aprende algo novo..."
+        url: "https://pt.wikipedia.org/wiki/Capivara"
+
+  # home-info mode
+  homeInfoParams:
+    Title: "\U0001F364 Hello, world... \U0001F990"
+    Content: "Em construção(?), espere coisas quebradas. Você pode me encontrar em:"
+
+  socialIcons:
+    - name: bluesky
+      title: Bluesky
+      url: "https://bsky.app/profile/shrmp0.com.br"
+    - name: github
+      title: GitHub
+      url: "https://github.com/SHRMP0"
+    - name: steam
+      title: Steam
+      url: "https://steamcommunity.com/id/shrmp0"
+    - name: twitch
+      title: Twitch
+      url: "https://www.twitch.tv/shrmp0"
+    - name: youtube
+      title: YouTube
+      url: "https://www.youtube.com/@SHRMP0"
+
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"
+    # bing:
+      # SiteVerificationTag: "XYZabc"
+    # yandex:
+      # SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+    responsiveImages: true
+    linkFullImages: false
+
+  editPost:
+    URL: "https://github.com/SHRMP0/SHRMP0.github.io/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: categories
+      name: Archive
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: skull
+      name: "\U0001F480"
+      title: "Tem coragem de clicar?"
+      url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
