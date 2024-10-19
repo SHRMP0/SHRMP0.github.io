@@ -6,7 +6,7 @@ date: 1996-09-07T11:30:03+00:00
 tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -14,7 +14,7 @@ comments: false
 description: "Você me encontrou."
 canonicalURL: "https://shrmp0.com.br/posts/ola"
 # disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: false
@@ -36,8 +36,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-## Introdução
+Parabéns... você mereceria um prêmio, se tivesse algo importante aqui.
 
-Parabéns... você **mereceria** um prêmio, se tivesse algo *importante* aqui.
+Mas brincadeiras à parte, seja bem vindo(a) ao meu site. O que você vai encontrar de bom aqui? Honestamente, não sei. Eu não tenho nenhuma proposta definida pra esse cantinho na internet, só sei que ele é meu. Dito isso, provavelmente sairei postando o que eu achar interessante quando me der na telha, sem nenhum critério ou periodicidade definidos.
 
-Volte mais tarde! ~~Ou não.~~
+Isso vai ser relevante o suficiente pra que outras pessoas se interessem em acessar o conteúdo postado? Veremos...

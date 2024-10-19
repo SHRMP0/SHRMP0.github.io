@@ -2,8 +2,8 @@
 title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+# aliases: ["/alias"]
+tags: ["add tags here"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -14,7 +14,7 @@ comments: false
 description: "Desc Text."
 canonicalURL: "https://shrmp0.com.br/posts/<page>"
 # disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: false
 searchHidden: false

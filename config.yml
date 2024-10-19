@@ -28,7 +28,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -59,8 +59,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "\U0001F364 Hello, world... \U0001F990"
-    subtitle: "Em construção(?), espere coisas quebradas. Você pode me encontrar em:"
+    title: "\U0001F364 SHRMP0 \U0001F990"
+    subtitle: "Oi! Este é o meu site. Você também pode me encontrar em:"
     imageUrl: "/images/capybara-aoe3de.png"
     imageWidth: 128
     imageHeight: 128
@@ -74,8 +74,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "\U0001F364 Hello, world... \U0001F990"
-    Content: "Em construção(?), espere coisas quebradas. Você pode me encontrar em:"
+    Title: "\U0001F364 SHRMP0 \U0001F990"
+    Content: "Oi! Este é o meu site. Você também pode me encontrar em:"
 
   socialIcons:
     - name: bluesky
