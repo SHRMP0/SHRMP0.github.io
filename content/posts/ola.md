@@ -38,6 +38,6 @@ editPost:
 
 Parabéns... você mereceria um prêmio, se tivesse algo importante aqui.
 
-Mas brincadeiras à parte, seja bem vindo(a) ao meu site. O que você vai encontrar de bom aqui? Honestamente, não sei. Eu não tenho nenhuma proposta definida pra esse cantinho na internet, só sei que ele é meu. Dito isso, provavelmente sairei postando o que eu achar interessante quando me der na telha, sem nenhum critério ou periodicidade definidos.
+Mas brincadeiras à parte, seja bem vindo(a) ao meu site. O que você vai encontrar de bom aqui? Honestamente, não sei. Eu não tenho nenhuma proposta clara definida pra esse cantinho na internet, só sei que ele é meu. Dito isso, provavelmente sairei postando o que eu achar interessante quando me der na telha, sem nenhum critério ou periodicidade ao certo.
 
-Isso vai ser relevante o suficiente pra que outras pessoas se interessem em acessar o conteúdo postado? Veremos...
+Isso vai ser relevante o suficiente pra que outras pessoas se interessem em acessar o conteúdo postado? Bom, veremos... Já tenho algumas ideias, porém falta conseguir vencer a inércia e preguiça de escrevê-las.
