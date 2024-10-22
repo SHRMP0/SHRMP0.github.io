@@ -26,8 +26,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: "images/caution-heels-slippers.jpg" # image path/url
-    alt: "Um adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # alt text
-    caption: "Um adesivo com um aviso em coreano que diz: \"Cuidado, não operar utilizando salto-alto ou chinelos\"" # display caption under cover
+    alt: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # alt text
+    caption: "Adesivo com um aviso em coreano que diz: \"Cuidado, não operar utilizando salto-alto ou chinelos\"" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
@@ -37,6 +37,8 @@ editPost:
 ---
 
 Literalmente apenas algumas fotografias que eu tirei usando o celular em algum momento no passado e quis repostar aqui. Como não tinha mais os arquivos originais, peguei do meu perfil no Bluesky e redimensionei, o que provavelmente explica os artefatos de compressão nas imagens.
+
+---
 
 ![Uma cerca de madeira rústica, com tábuas alinhadas, cercando um espaço ao ar livre.](images/ufba-ondina-1.jpg)
 Uma cerca de madeira rústica, com tábuas alinhadas, cercando um espaço ao ar livre.
