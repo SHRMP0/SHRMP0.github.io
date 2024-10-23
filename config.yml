@@ -94,9 +94,9 @@ params:
       title: YouTube
       url: "https://www.youtube.com/@SHRMP0"
 
-  # analytics:
-    # google:
-      # SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-6K0J30SLLN"
     # bing:
       # SiteVerificationTag: "XYZabc"
     # yandex:
