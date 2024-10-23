@@ -94,14 +94,18 @@ params:
       title: YouTube
       url: "https://www.youtube.com/@SHRMP0"
 
-  analytics:
-    google:
-      SiteVerificationTag: "G-6K0J30SLLN"
+  # analytics:
+    # google:
+      # SiteVerificationTag: "XYZabc"
     # bing:
       # SiteVerificationTag: "XYZabc"
     # yandex:
       # SiteVerificationTag: "XYZabc"
 
+  services:
+    googleAnalytics:
+      ID: "G-6K0J30SLLN"
+  
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
