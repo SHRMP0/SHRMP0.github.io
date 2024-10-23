@@ -1,7 +1,6 @@
 baseURL: "https://shrmp0.com.br/"
 title: SHRMP0
 copyright: "2024 · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-paginate: 5
 theme: PaperMod
 enableEmoji: true
 enableInlineShortcodes: true
@@ -9,6 +8,11 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+  path: page
 
 minify:
   disableXML: true
