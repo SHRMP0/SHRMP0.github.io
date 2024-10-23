@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/caridina-woltereckae-iucn.jpg" # image path/url
+    image: "/images/caridina-woltereckae-iucn.jpg" # image path/url
     alt: "Um camarão da espécie Caridina woltereckae." # alt text
     caption: "Um camarão da espécie Caridina woltereckae. Foto: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
     relative: true # when using page bundles set this to true

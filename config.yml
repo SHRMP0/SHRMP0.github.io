@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SHRMP0
-  description: "Hello, world..."
+  description: "Oi! Este é o meu site."
   keywords: [Blog, Homepage, Personal]
   author: Me
   # author: ["Me", "You"] # multiple authors
