@@ -3,7 +3,6 @@ title: SHRMP0
 copyright: "2024 · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 paginate: 5
 theme: PaperMod
-
 enableEmoji: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -26,7 +25,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -102,10 +100,6 @@ params:
     # yandex:
       # SiteVerificationTag: "XYZabc"
 
-  services:
-    googleAnalytics:
-      ID: "G-6K0J30SLLN"
-  
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
@@ -149,6 +143,10 @@ menu:
       title: "Tem coragem de clicar?"
       url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
       weight: 30
+
+services:
+  googleAnalytics:
+    id: "G-6K0J30SLLN"
 
 outputs:
   home:
