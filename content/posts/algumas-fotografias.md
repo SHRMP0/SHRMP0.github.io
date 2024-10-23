@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/images/caution-heels-slippers.jpg" # image path/url
+    image: "images/caution-heels-slippers.jpg" # image path/url
     alt: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # alt text
     caption: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # display caption under cover
     relative: true # when using page bundles set this to true
