@@ -1,21 +1,19 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "Post title here"
+date: 2024-10-01T00:00:00+00:00
 # weight: 1
 # aliases: ["/alias"]
 tags: ["add tags here"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Add description text here."
 canonicalURL: "https://shrmp0.com.br/posts/<page>"
-# disableHLJS: true # to disable highlightjs
 disableShare: true
-disableHLJS: false
+disableHLJS: false # to disable highlightjs
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -32,6 +30,6 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Sugerir Mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

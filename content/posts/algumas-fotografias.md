@@ -1,11 +1,10 @@
 ---
 title: "Algumas fotografias"
-date: 2024-10-21T19:00:00+00:00
+date: 2024-10-21T00:00:00+00:00
 # weight: 1
 # aliases: ["/fotos"]
 tags: ["fotos"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: false
 TocOpen: false
 draft: false
@@ -13,9 +12,8 @@ hidemeta: false
 comments: false
 description: "O título é autoexplicativo."
 canonicalURL: "https://shrmp0.com.br/posts/algumas-fotografias"
-# disableHLJS: true # to disable highlightjs
 disableShare: true
-disableHLJS: false
+disableHLJS: false # to disable highlightjs
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -32,7 +30,7 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Sugerir Mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 

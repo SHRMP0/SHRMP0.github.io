@@ -9,6 +9,15 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+defaultContentLanguage: pt
+defaultContentLanguageInSubdir: false
+languages:
+  pt:
+    disabled: false
+    languageCode: pt-BR
+    languageDirection: ltr
+    languageName: Português
+
 pagination:
   disableAliases: false
   pagerSize: 5
@@ -23,10 +32,9 @@ params:
   title: SHRMP0
   description: "Oi! Este é o meu site."
   keywords: [Blog, Homepage, Personal]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  author: "SHRMP0" # ["Me", "You"] multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 de January de 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: true
@@ -54,7 +62,7 @@ params:
     apple_touch_icon: "/apple-touch-icon.png"
 
   label:
-    text: "Home"
+    text: "Início"
     icon: "/apple-touch-icon.png"
     iconHeight: 35
 
@@ -113,7 +121,7 @@ params:
 
   editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Sugerir Mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -131,7 +139,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: Archive
+      name: Arquivo
       url: /archives/
       weight: 10
     - identifier: tags
@@ -139,7 +147,7 @@ menu:
       url: /tags/
       weight: 10
     - identifier: search
-      name: Search
+      name: Pesquisar
       url: /search/
       weight: 20
     - identifier: skull

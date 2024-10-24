@@ -1,5 +1,6 @@
 ---
-title: "Search"
-placeholder: "O que procuras?"
+title: "Pesquisar"
 layout: "search"
+summary: "search"
+placeholder: "O que procuras?"
 ---
