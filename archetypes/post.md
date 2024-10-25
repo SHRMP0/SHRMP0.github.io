@@ -30,6 +30,6 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir Mudanças" # edit text
+    Text: "Sugerir mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

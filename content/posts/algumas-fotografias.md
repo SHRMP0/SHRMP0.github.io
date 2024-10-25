@@ -3,7 +3,7 @@ title: "Algumas fotografias"
 date: 2024-10-21T00:00:00+00:00
 # weight: 1
 # aliases: ["/fotos"]
-tags: ["fotos"]
+tags: ["etc", "fotos"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: false
 TocOpen: false
@@ -30,7 +30,7 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir Mudanças" # edit text
+    Text: "Sugerir mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
