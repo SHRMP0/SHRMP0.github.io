@@ -87,6 +87,7 @@ params:
     Title: "\U0001F364 SHRMP0 \U0001F990"
     Content: "Oi! Este é o meu site. Você também pode me encontrar em:"
 
+  social: true
   socialIcons:
     - name: bluesky
       title: Bluesky
