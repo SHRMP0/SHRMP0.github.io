@@ -2,7 +2,7 @@
 title: "Algumas fotografias"
 date: 2024-10-21T00:00:00+00:00
 # weight: 1
-# aliases: ["/fotos"]
+# aliases: ["/posts/fotos"]
 tags: ["etc", "fotos"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: false

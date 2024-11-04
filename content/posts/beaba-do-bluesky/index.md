@@ -2,7 +2,7 @@
 title: "O bê-á-bá do Bluesky"
 date: 2024-10-22T00:00:00+00:00
 # weight: 1
-aliases: ["/beaba-bsky"]
+# aliases: ["/posts/beaba-bsky"]
 tags: ["bluesky", "guias"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true

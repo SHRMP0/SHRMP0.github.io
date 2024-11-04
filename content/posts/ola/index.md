@@ -2,7 +2,7 @@
 title: "Olá!"
 date: 1996-09-07T00:00:00+00:00
 # weight: 1
-# aliases: ["/first"]
+# aliases: ["/posts/first"]
 tags: ["first"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: false
