@@ -19,7 +19,7 @@ languages:
     languageName: Português
 
 pagination:
-  disableAliases: false
+  disableAliases: true
   pagerSize: 5
   path: page
 
@@ -70,11 +70,11 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "\U0001F364 SHRMP0 \U0001F990"
-    subtitle: "Oi! Este é o meu site. Você também pode me encontrar em:"
+    subtitle: "Oi! Este é o meu site onde eu posto o que der na telha... espere aleatoriedades. Você também pode me encontrar em:"
     imageUrl: "/images/capybara-aoe3de.png"
     imageWidth: 128
     imageHeight: 128
-    imageTitle: "O famigerado avatar da capivara do Age Of Empires III: Definitive Edition."
+    imageTitle: "O famigerado avatar da capivara dourada do Age Of Empires III: Definitive Edition."
     buttons:
       - name: Posts
         url: /posts/
@@ -85,7 +85,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "\U0001F364 SHRMP0 \U0001F990"
-    Content: "Oi! Este é o meu site. Você também pode me encontrar em:"
+    Content: "Oi! Este é o meu site onde eu posto o que der na telha... espere aleatoriedades. Você também pode me encontrar em:"
 
   social: true
   socialIcons:
@@ -122,7 +122,7 @@ params:
 
   editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir Mudanças" # edit text
+    Text: "Sugerir mudanças" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -173,8 +173,8 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
