@@ -1,9 +1,9 @@
 ---
 title: "Post de testes"
-date: 2024-10-22T00:00:00+00:00
+date: 1970-01-01T00:00:00+00:00
 # weight: 1
 # aliases: ["/posts/teste"]
-tags: ["teste"]
+tags: ["rascunho", "teste"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
