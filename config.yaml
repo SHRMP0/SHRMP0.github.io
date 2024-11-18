@@ -70,7 +70,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "\U0001F364 SHRMP0 \U0001F990"
-    subtitle: "Oi! Este é o meu site onde eu posto o que der na telha... espere aleatoriedades. Você também pode me encontrar em:"
+    subtitle: "Oi! Este é o meu site onde eu posto o que me der na telha... espere aleatoriedades. Aqui não é o único lugar que habito, você também pode me encontrar em:"
     imageUrl: "/images/capybara-aoe3de.png"
     imageWidth: 128
     imageHeight: 128
@@ -85,7 +85,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "\U0001F364 SHRMP0 \U0001F990"
-    Content: "Oi! Este é o meu site onde eu posto o que der na telha... espere aleatoriedades. Você também pode me encontrar em:"
+    Content: "Oi! Este é o meu site onde eu posto o que me der na telha... espere aleatoriedades. Aqui não é o único lugar que habito, você também pode me encontrar em:"
 
   social: true
   socialIcons:
@@ -95,6 +95,9 @@ params:
     - name: github
       title: GitHub
       url: "https://github.com/SHRMP0"
+    - name: linkedin
+      title: LinkedIn
+      url: "https://www.linkedin.com/in/davigazevedo/"
     - name: steam
       title: Steam
       url: "https://steamcommunity.com/id/shrmp0"
