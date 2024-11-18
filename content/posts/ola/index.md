@@ -1,6 +1,6 @@
 ---
 title: "Olá!"
-date: 1996-09-07T00:00:00+00:00
+date: 2024-09-05T00:00:00+00:00
 # weight: 1
 # aliases: ["/posts/first"]
 tags: ["first"]
@@ -36,6 +36,6 @@ editPost:
 
 Parabéns... você mereceria um prêmio, se tivesse algo importante aqui.
 
-Mas brincadeiras à parte, seja bem vindo(a) ao meu site. Como já deve ter dado para notar, eu gosto de camarões e capivaras. **O que você vai encontrar de bom aqui? Honestamente, não sei.** Eu não tenho nenhuma proposta clara definida pra esse cantinho na internet, só sei que ele é meu. Dito isso, provavelmente sairei postando o que eu achar interessante quando me der na telha, sem nenhum critério ou periodicidade ao certo.
+Mas brincadeiras à parte, seja bem vindo(a) ao meu site. Como já deve ter dado para notar, eu gosto muito de camarões e capivaras. **O que você vai encontrar de bom aqui? Honestamente, não sei.** Eu não tenho nenhuma proposta clara definida pra esse cantinho na internet, só sei que ele é meu. Dito isso, provavelmente sairei postando o que eu achar interessante quando me der na telha, sem nenhum critério ou periodicidade ao certo.
 
 Isso vai ser relevante o suficiente pra que outras pessoas se interessem em acessar o conteúdo postado? Bom, veremos... já tenho algumas ideias, porém falta conseguir vencer a inércia e preguiça de escrevê-las.
