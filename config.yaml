@@ -33,7 +33,7 @@ params:
   description: "Oi! Este é o meu site."
   keywords: [Blog, Homepage, Personal]
   author: "SHRMP0" # ["Me", "You"] multiple authors
-  images: ["/opengraph.png"]
+  images: ["/opengraph.png"] # link or path of image for opengraph, twitter-cards
   DateFormat: "2 de January de 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
