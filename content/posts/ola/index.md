@@ -1,6 +1,6 @@
 ---
 title: "Olá!"
-date: 2024-09-05T00:00:00+00:00
+date: 2024-09-05
 # weight: 1
 # aliases: ["/posts/first"]
 tags: ["first"]
@@ -22,8 +22,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images:
-  - "images/caridina-woltereckae-iucn.jpg" # link or path of image for opengraph, twitter-cards
+images: ["/images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "images/caridina-woltereckae-iucn.jpg" # image path/url
     alt: "Um camarão da espécie Caridina woltereckae." # alt text

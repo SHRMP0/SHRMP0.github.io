@@ -1,6 +1,6 @@
 ---
 title: "Algumas fotografias"
-date: 2024-10-21T00:00:00+00:00
+date: 2024-10-21
 # weight: 1
 # aliases: ["/posts/fotos"]
 tags: ["etc", "fotos"]
@@ -22,8 +22,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images:
-  - "images/caution-heels-slippers.jpg" # link or path of image for opengraph, twitter-cards
+images: ["/images/caution-heels-slippers.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "images/caution-heels-slippers.jpg" # image path/url
     alt: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # alt text

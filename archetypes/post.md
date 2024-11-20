@@ -1,6 +1,6 @@
 ---
 title: "Post title here"
-date: 2024-10-01T00:00:00+00:00
+date: 2024-10-01
 # weight: 1
 # aliases: ["/posts/alias"]
 tags: ["add tags here"]
@@ -22,6 +22,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+images: ["/<link or path of image for opengraph, twitter-cards>"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
