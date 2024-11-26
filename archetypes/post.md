@@ -9,7 +9,8 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
+bsky: "<bsky post url>" # link to your bsky post
 description: "Add description text here."
 canonicalURL: "https://shrmp0.com.br/posts/<page>"
 disableShare: true

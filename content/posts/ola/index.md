@@ -10,6 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
+bsky: "<bsky post url>" # link to your bsky post
 description: "Você me encontrou."
 canonicalURL: "https://shrmp0.com.br/posts/ola"
 disableShare: true

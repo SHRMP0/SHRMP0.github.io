@@ -9,7 +9,8 @@ showToc: true
 TocOpen: false
 draft: true
 hidemeta: false
-comments: false
+comments: true
+bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lamov7brzc2q" # link to your bsky post
 description: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
 canonicalURL: "https://shrmp0.com.br/posts/post-de-testes"
 disableShare: true
@@ -53,7 +54,7 @@ Se você não sabe (ou não lembra) o que é um "bê-á-bá", fique agora com o 
 Para que fosse possível escrever esse guia, além da minha própria experiência[^1], também contei com o auxílio de alguns conteúdos e documentações, listados abaixo (ou não):
 
   Arial 12;  
-  [Instituto MR](https://www.reddit.com/r/Twitter_Brasil/comments/xk1jdc/%C3%ADndice_mr/); e  
+  [Índice MR](https://www.reddit.com/r/Twitter_Brasil/comments/xk1jdc/%C3%ADndice_mr/); e  
   Vozes da minha cabeça.
 
-[^1]: Teste de nota de rodapé. Será que eu estou ficando louco ou são vocês que não me entendem?
+[^1]: Teste de nota de rodapé. ~~Será que eu estou ficando louco ou são vocês que não me entendem?~~

@@ -10,6 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
+bsky: "<bsky post url>" # link to your bsky post
 description: "O título é autoexplicativo."
 canonicalURL: "https://shrmp0.com.br/posts/algumas-fotografias"
 disableShare: true
