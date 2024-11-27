@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-bsky: "<bsky post url>" # link to your bsky post
+bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w" # link to your bsky post
 description: "Um tutorial simples para aprender a transformar skeets na seção de comentários do seu site ou blog."
 canonicalURL: "https://shrmp0.com.br/posts/comentarios-bluesky-hugo-papermod"
 disableShare: true
