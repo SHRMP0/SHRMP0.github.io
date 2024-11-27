@@ -3,7 +3,7 @@ title: "Post de testes"
 date: 1970-01-01
 # weight: 1
 # aliases: ["/posts/teste"]
-tags: ["rascunho", "teste"]
+tags: ["teste"]
 author: ["SHRMP0", "Alberto Simões (Lipsum)"] # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
