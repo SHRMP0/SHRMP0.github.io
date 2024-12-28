@@ -25,9 +25,9 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 # images: ["<no image>"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "<no image>" # image path/url
-    alt: "LEGENDA DA IMAGEM DE CAPA" # alt text
-    caption: "LEGENDA DA IMAGEM DE CAPA" # display caption under cover
+    # image: "<no image>" # image path/url
+    # alt: "LEGENDA DA IMAGEM DE CAPA" # alt text
+    # caption: "LEGENDA DA IMAGEM DE CAPA" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
