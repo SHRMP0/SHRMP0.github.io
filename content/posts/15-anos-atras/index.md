@@ -7,11 +7,11 @@ tags: ["etc"]
 author: ["SHRMP0"] # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
-description: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
+description: "..."
 canonicalURL: "https://shrmp0.com.br/posts/15-anos-atras"
 disableShare: true
 disableHLJS: false # to disable highlightjs
