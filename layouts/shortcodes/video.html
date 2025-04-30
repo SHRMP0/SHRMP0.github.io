@@ -21,9 +21,9 @@
 {{- if $caption -}}
 <figure>
 {{- end -}}
-  <video preload="{{ $preload }}"
+  <video class="video-shortcode" preload="{{ $preload }}"
     {{- if $controls }} controls{{ end -}}
-    {{- if $muted }} muted{{ end -}}
+	{{- if $muted }} muted{{ end -}}
     {{- if $loop }} loop{{ end -}}
     {{- if $autoplay }} autoplay{{ end -}}
     {{- with $poster }} poster="{{ . }}"{{ end -}}>
