@@ -40,7 +40,13 @@ Impressionante como tudo sempre resolve dar pau quando a gente tá lascado, sem 
 
 Pois bem, de uns meses pra cá o radinho do carro começou a apresentar um probleminha chato pra caralho: **a memória de dispositivos pareados via Bluetooth era apagada quando o carro desliga**. Obviamente isso não é nada crítico, mas não deixa de ser irritante ter que desperdiçar tempo conectando manualmente toda vez que vou usá-lo.
 
-Esse é o momento em que você provavelmente está achando isso tudo uma grande problematização chique e se perguntando "*porra, mas não é só usar o USB ou P2??*". Então, meu celular não tem porta P2 ~~(maldita seja a Apple por popularizar isso)~~ e espetar meus MP3s no USB não me permitiria atender ligações pelo rádio enquanto dirijo.
+Cabe fazer a observação de que não é a primeira vez que aparece algum defeito nesse aparelho.
+
+Já havia rolado esse mesmo problema com o Bluetooth anteriormente, mas ele ainda estava dentro da garantia e realizaram a troca da peça responsável, solucionando-o. Além disso, ano passado o potenciômetro começou a falhar (algo honestamente esperado de um velho de guerra com mais de 5 anos de uso), foi substituído e resolvido, porém já está voltando a dar xabu novamente.
+
+Dado esse histórico, *dá pra entender o motivo de eu não cogitar mais gastar tentando consertá-lo e preferir comprar um novo*, né?
+
+Esse é o momento em que você provavelmente está achando isso tudo uma grande problematização chique e se perguntando "**porra, mas não é só usar o USB ou P2??**". Então, *meu celular não tem porta P2* ~~(maldita seja a Apple por popularizar isso)~~ e *espetar meus MP3s no USB não me permitiria atender ligações pelo rádio enquanto dirijo*.
 
 Após tanto tempo sofrendo, mesmo sem grana, a curiosidade me fez abrir o site da Pioneer pra pesquisar possíveis opções que não custassem um absurdo e comparar com o modelo atual, onde acabei me deparando com *aquele segundo botãozinho*:
 
@@ -50,7 +56,7 @@ Foi nessa hora que pensei:
 
 > "Por que não? Não custa nada tentar... no pior dos casos essa merda vai *brickar* e servir apenas como peso de papel, nada demais."
 
-Refleti um pouco e cheguei a conclusão de que valia a pena correr esse risco.
+Refleti um pouco e cheguei a conclusão de que valia a pena correr esse risco desproporcional.
 
 Em tempo: parabéns, Pioneer, por fazer o que deveria ser o mínimo ~~mas muita fabricante não faz~~ e disponibilizar os arquivos de atualização do firmware na [página do produto](https://pioneer.com.br/produto/deh-s4080bt/), apesar dele já ter sido descontinuado.
 
