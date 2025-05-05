@@ -12,10 +12,10 @@
 {{- end -}}
 {{- $caption := $.Get "caption" | markdownify| plainify -}}
 {{- $preload := $.Get "preload" | default "metadata" -}}
-{{- $controls := $.Get "controls" | default true -}}
-{{- $muted := $.Get "muted" | default false -}}
-{{- $loop := $.Get "loop" | default false -}}
-{{- $autoplay := $.Get "autoplay" | default false -}}
+{{- $controls := $.Get "controls" | default "true" -}}
+{{- $muted := $.Get "muted" | default "false" -}}
+{{- $loop := $.Get "loop" | default "false" -}}
+{{- $autoplay := $.Get "autoplay" | default "false" -}}
 {{- $poster := $.Get "poster" -}}
 
 {{- if $caption -}}
@@ -34,6 +34,6 @@
         Seu navegador não suporta o elemento de vídeo.
     </video>
 {{- with $caption -}}
-    <figcaption class="video-shortcode">{{ . }}</figcaption>
+    <figcaption class="video-shortcode"><p>{{ . }}</p></figcaption>
 </figure>
 {{- end -}}
