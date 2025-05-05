@@ -19,9 +19,9 @@
 {{- $poster := $.Get "poster" -}}
 
 {{- if $caption -}}
-<figure>
+<figure class="video-shortcode">
 {{- end -}}
-    <video class="video-shortcode" preload="{{ $preload }}"
+    <video preload="{{ $preload }}"
         {{- if $controls }} controls{{ end -}}
 	    {{- if $muted }} muted{{ end -}}
         {{- if $loop }} loop{{ end -}}
