@@ -42,7 +42,7 @@ Pois bem, de uns meses pra cá o radinho do carro começou a apresentar um probl
 
 Cabe fazer a observação de que não é a primeira vez que aparece algum defeito nesse aparelho.
 
-Já havia rolado esse mesmo problema com o Bluetooth anteriormente, mas ele ainda estava dentro da garantia e realizaram a troca da peça responsável, solucionando-o. Além disso, ano passado o potenciômetro começou a falhar (algo honestamente esperado de um velho de guerra com mais de 5 anos de uso), foi substituído e resolvido, porém já está voltando a dar xabu novamente.
+Já havia rolado esse mesmo problema com o Bluetooth anteriormente, mas ele ainda estava dentro da garantia e realizaram a troca da peça responsável, solucionando-o. Além disso, ano passado o potenciômetro que controla o volume e navegação pelos menus começou a falhar (algo honestamente esperado de um velho de guerra com mais de 5 anos de uso), foi substituído e resolvido, porém já está voltando a dar xabu novamente.
 
 Dado esse histórico, *dá pra entender o motivo de eu não cogitar mais gastar tentando consertá-lo e preferir comprar um novo*, né?
 
