@@ -38,11 +38,11 @@ editPost:
 
 Impressionante como tudo sempre resolve dar pau quando a gente tá lascado, sem dinheiro nenhum pra gastar com dívidas novas, né? Se for algo que usamos quase diariamente então, piorou.
 
-Pois bem, de uns meses pra cá o radinho do carro começou a apresentar um probleminha chato pra caralho: **a memória de dispositivos pareados via Bluetooth era apagada quando o carro desliga**. Obviamente isso não é nada crítico, mas não deixa de ser irritante ter que desperdiçar tempo conectando manualmente toda vez que vou usá-lo.
+Pois bem, de uns meses pra cá o radinho do carro (igual ao que está na foto de capa do post) começou a apresentar um probleminha chato pra caralho: **a memória de dispositivos pareados via Bluetooth era apagada quando o carro desliga**. Obviamente isso não é nada crítico, mas não deixa de ser irritante ter que desperdiçar tempo conectando manualmente toda vez que vou usá-lo.
 
-Cabe fazer a observação de que não é a primeira vez que aparece algum defeito nesse aparelho.
+Cabe fazer a observação de que não é a primeira vez que aparece algum defeito nesse aparelho. Já havia rolado esse mesmo problema com o Bluetooth anteriormente, mas ele ainda estava dentro da garantia, constataram que se tratava de um defeito físico e realizaram a troca da peça responsável, solucionando-o.
 
-Já havia rolado esse mesmo problema com o Bluetooth anteriormente, mas ele ainda estava dentro da garantia e realizaram a troca da peça responsável, solucionando-o. Além disso, ano passado o potenciômetro que controla o volume e navegação pelos menus começou a falhar (algo honestamente esperado de um velho de guerra com mais de 5 anos de uso), foi substituído e resolvido, porém já está voltando a dar xabu novamente.
+Além disso, ano passado o potenciômetro, vulgo a *rodinha que controla o volume e navegação pelos menus* começou a falhar (algo honestamente esperado de um velho de guerra com mais de 5 anos de uso), foi substituído e resolvido, porém já está voltando a dar xabu novamente.
 
 Dado esse histórico, *dá pra entender o motivo de eu não cogitar mais gastar tentando consertá-lo e preferir comprar um novo*, né?
 
@@ -50,7 +50,7 @@ Esse é o momento em que você provavelmente está achando isso tudo uma grande 
 
 Após tanto tempo sofrendo, mesmo sem grana, a curiosidade me fez abrir o site da Pioneer pra pesquisar possíveis opções que não custassem um absurdo e comparar com o modelo atual, onde acabei me deparando com *aquele segundo botãozinho*:
 
-{{< figure align="center" src="images/screenshot-site-pioneer.png" alt="Captura de tela da página do produto no site da Pioneer." >}}
+{{< figure align="center" src="images/screenshot-site-pioneer.png" alt="Captura de tela da página do produto no site da Pioneer." caption="Surge uma nova esperança...?" >}}
 
 Foi nessa hora que pensei:
 
