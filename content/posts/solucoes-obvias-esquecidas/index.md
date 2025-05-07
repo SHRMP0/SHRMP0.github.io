@@ -9,8 +9,8 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
+comments: true
+bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lollxsflbk2i" # link to your bsky post
 description: "...está na nossa cara e passa batido."
 canonicalURL: "https://shrmp0.com.br/posts/solucoes-obvias-esquecidas"
 disableShare: true
