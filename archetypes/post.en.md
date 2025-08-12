@@ -2,8 +2,8 @@
 title: "Post title here"
 date: 2024-10-01
 # weight: 1
-# slug: <page>
-# aliases: ["/posts/alias"]
+slug: <page>
+# aliases: ["/en/posts/alias"]
 tags: ["add tags here"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
@@ -32,6 +32,6 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
+    Text: "Suggest changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

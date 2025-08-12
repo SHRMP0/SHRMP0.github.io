@@ -16,12 +16,53 @@ languages:
     disabled: false
     languageCode: pt-BR
     languageDirection: ltr
-    languageName: Português
+    languageName: "Português"
+    
   en:
     disabled: false
     languageCode: en-US
     languageDirection: ltr
-    languageName: English
+    languageName: "English"
+    
+    params:
+      description: "Hi! This is my website where I post whatever I feel like... expect randomness."
+      DateFormat: "January 2, 2006"
+      
+      label:
+        text: "Home"
+      
+      profileMode:
+        subtitle: "Hi! This is my website where I post whatever I feel like... expect randomness. This isn't the only place where I hangout, you can also find me at:"
+        imageTitle: "The capybara wearing Jason Voorhees' mask avatar from Age of Empires III: Definitive Edition."
+        buttons:
+          - name: Posts
+            url: /en/posts/
+          - name: Discover
+            title: "Perhaps you'll learn something new..."
+            url: https://en.wikipedia.org/wiki/Capybara
+      
+      homeInfoParams:
+        Content: "Hi! This is my website where I post whatever I feel like... expect randomness. This isn't the only place where I hangout, you can also find me at:"
+      
+      editPost:
+        Text: "Suggest changes"
+      
+    menus:
+      main:
+        - name: Archive
+          url: /en/archives/
+          weight: 10
+        - name: Tags
+          url: /en/tags/
+          weight: 10
+        - name: Search
+          url: /en/search/
+          weight: 20
+        - name: "\U0001F480"
+          title: "Do you have what it takes to click?"
+          url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          weight: 30
+    weight: 1
 
 pagination:
   disableAliases: true
@@ -113,14 +154,6 @@ params:
       title: YouTube
       url: "https://www.youtube.com/@SHRMP0"
 
-  # analytics:
-    # google:
-      # SiteVerificationTag: "XYZabc"
-    # bing:
-      # SiteVerificationTag: "XYZabc"
-    # yandex:
-      # SiteVerificationTag: "XYZabc"
-
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
@@ -145,25 +178,22 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 
-menu:
+menus:
   main:
-    - identifier: categories
-      name: Arquivo
+    - name: Arquivo
       url: /archives/
       weight: 10
-    - identifier: tags
-      name: Tags
+    - name: Tags
       url: /tags/
       weight: 10
-    - identifier: search
-      name: Pesquisar
+    - name: Pesquisar
       url: /search/
       weight: 20
-    - identifier: skull
-      name: "\U0001F480"
+    - name: "\U0001F480"
       title: "Tem coragem de clicar?"
       url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
       weight: 30
+weight: 1
 
 services:
   googleAnalytics:
