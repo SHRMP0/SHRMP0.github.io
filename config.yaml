@@ -17,6 +17,11 @@ languages:
     languageCode: pt-BR
     languageDirection: ltr
     languageName: Português
+  en:
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
 
 pagination:
   disableAliases: true
