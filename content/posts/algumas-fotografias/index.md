@@ -2,6 +2,7 @@
 title: "Algumas fotografias"
 date: 2024-10-21
 # weight: 1
+# slug: algumas-fotografias
 # aliases: ["/posts/fotos"]
 tags: ["etc", "fotos"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
 description: "O título é autoexplicativo."
-canonicalURL: "https://shrmp0.com.br/posts/algumas-fotografias"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false

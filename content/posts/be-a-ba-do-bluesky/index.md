@@ -2,6 +2,7 @@
 title: "Bê-á-bá do Bluesky"
 date: 2024-12-01
 # weight: 1
+# slug: be-a-ba-do-bluesky
 # aliases: ["/posts/beaba-bsky"]
 tags: ["bluesky", "tutoriais"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: true
 bsky: "<bsky post url>" # link to your bsky post
 description: "Para você que quer aprender mais e manjar dos macetes."
-canonicalURL: "https://shrmp0.com.br/posts/be-a-ba-do-bluesky"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false

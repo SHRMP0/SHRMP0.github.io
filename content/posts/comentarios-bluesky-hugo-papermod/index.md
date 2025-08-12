@@ -2,6 +2,7 @@
 title: "Adicionando comentários via Bluesky ao Hugo PaperMod"
 date: 2024-11-27
 # weight: 1
+# slug: comentarios-bluesky-hugo-papermod
 # aliases: ["/posts/comentarios-bsky-hugo"]
 tags: ["bluesky", "hugo", "papermod", "tutoriais"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: true
 bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w" # link to your bsky post
 description: "Um tutorial simples para aprender a transformar skeets na seção de comentários do seu site ou blog."
-canonicalURL: "https://shrmp0.com.br/posts/comentarios-bluesky-hugo-papermod"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false

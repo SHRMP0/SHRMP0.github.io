@@ -2,6 +2,7 @@
 title: "Olá!"
 date: 2024-09-05
 # weight: 1
+# slug: ola
 # aliases: ["/posts/first"]
 tags: ["first"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
 description: "Você me encontrou."
-canonicalURL: "https://shrmp0.com.br/posts/ola"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false

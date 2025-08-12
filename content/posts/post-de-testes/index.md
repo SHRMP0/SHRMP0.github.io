@@ -2,6 +2,7 @@
 title: "Post de testes"
 date: 1970-01-01
 # weight: 1
+# slug: post-de-testes
 # aliases: ["/posts/teste"]
 tags: ["teste"]
 author: ["SHRMP0", "Alberto Simões (Lipsum)"] # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
 description: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
-canonicalURL: "https://shrmp0.com.br/posts/post-de-testes"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false

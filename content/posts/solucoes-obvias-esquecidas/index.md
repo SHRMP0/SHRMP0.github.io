@@ -2,6 +2,7 @@
 title: "Às vezes a solução do problema..."
 date: 2025-04-30
 # weight: 1
+# slug: solucoes-obvias-esquecidas
 # aliases: ["/posts/bluetooth-radio-pioneer"]
 tags: ["bluetooth", "dicas", "pioneer"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: true
 bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lollxsflbk2i" # link to your bsky post
 description: "...está na nossa cara e passa batido."
-canonicalURL: "https://shrmp0.com.br/posts/solucoes-obvias-esquecidas"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false

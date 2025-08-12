@@ -2,6 +2,7 @@
 title: "15 anos atrás"
 date: 2024-12-05
 # weight: 1
+# slug: 15-anos-atras
 # aliases: ["/posts/15-years-ago"]
 tags: ["etc"]
 author: ["SHRMP0"] # ["Me", "You"] multiple authors
@@ -12,7 +13,6 @@ hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
 description: "..."
-canonicalURL: "https://shrmp0.com.br/posts/15-anos-atras"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false
