@@ -28,7 +28,7 @@ cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
-    relative: true # when using page bundles set this to true
+    relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"

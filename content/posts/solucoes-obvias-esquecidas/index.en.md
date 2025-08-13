@@ -28,7 +28,7 @@ cover:
     image: "/posts/solucoes-obvias-esquecidas/images/pioneer-deh-s4080bt.png" # image path/url
     alt: "Pioneer DEH-S4080BT car radio." # alt text
     caption: "Pioneer DEH-S4080BT car radio." # display caption under cover
-    relative: true # when using page bundles set this to true
+    relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
