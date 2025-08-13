@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["https://shrmp0.com.br/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
+# images: ["/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png" # image path/url
     alt: "Hugo and Bluesky logos." # alt text

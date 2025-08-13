@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["<image path/url>"] # link or path of image for opengraph, twitter-cards
+# images: ["<image path/url>"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
