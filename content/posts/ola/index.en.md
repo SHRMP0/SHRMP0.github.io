@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["/posts/ola/images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
+images: ["https://shrmp0.com.br/posts/ola/images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "/posts/ola/images/caridina-woltereckae-iucn.jpg" # image path/url
     alt: "A Caridina woltereckae shrimp." # alt text
