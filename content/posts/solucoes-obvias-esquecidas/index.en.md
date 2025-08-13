@@ -8,7 +8,7 @@ tags: ["bluetooth", "tips", "pioneer"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: true
 bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lollxsflbk2i" # link to your bsky post
@@ -36,32 +36,32 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Impressionante como tudo sempre resolve dar pau quando a gente tá lascado, sem dinheiro nenhum pra gastar com dívidas novas, né? Se for algo que usamos quase diariamente então, piorou.
+It's amazing how everything always ends up breaking down when we're broke and have no spare money to spend, right? If it's something we use almost daily, it's even worse.
 
-Pois bem, de uns meses pra cá o radinho do carro (igual ao que está na foto de capa do post) começou a apresentar um probleminha chato pra caralho: **a memória de dispositivos pareados via Bluetooth era apagada quando o carro desliga**. Obviamente isso não é nada crítico, mas não deixa de ser irritante ter que desperdiçar tempo conectando manualmente toda vez que vou usá-lo.
+Well, a few months ago, the car radio (just like the one in the cover photo of this post) started having a really annoying problem: **the Bluetooth paired devices memory gets erased when the car turns off**. Obviously, this isn't critical, but it's still annoying having to waste time manually connecting it every time I use it.
 
-Cabe fazer a observação de que não é a primeira vez que aparece algum defeito nesse aparelho. Já havia rolado esse mesmo problema com o Bluetooth anteriormente, mas ele ainda estava dentro da garantia, constataram que se tratava de um defeito físico e realizaram a troca da peça responsável, solucionando-o.
+It's worth noting that this isn't the first time this device has had a problem. I've had this same issue with Bluetooth before, but it was still under warranty. They determined it was a physical defect and replaced the part, fixing the problem.
 
-Além disso, ano passado o potenciômetro, vulgo a *rodinha que controla o volume e navegação pelos menus*, começou a falhar (algo honestamente esperado de um velho de guerra com mais de 5 anos de uso), foi substituído e resolvido, porém já está voltando a dar xabu novamente.
+Furthermore, last year the potentiometer, aka the *little wheel that controls volume and menu navigation*, started failing (something honestly expected from a car radio with over 5 years of use). It was replaced and fixed, but it's now failing again.
 
-Dado esse histórico, *dá pra entender o motivo de eu não cogitar mais gastar tentando consertá-lo e preferir comprar um novo*, né?
+Given this history, *you can understand why I'm not considering spending any more money trying to fix it and would rather buy a new one*, right?
 
-Esse é o momento em que você provavelmente está achando isso tudo uma grande problematização chique e se perguntando "**porra, mas não é só usar o USB ou P2??**". Então, *meu celular não tem porta P2* ~~(maldita seja a Apple por popularizar isso)~~ e *espetar meus MP3s no USB não me permitiria atender ligações pelo rádio enquanto dirijo*.
+This is the moment when you're probably thinking this is just another dumb first world problem and asking yourself "**bitch, why don't you just use the USB port or the 3.5 mm jack??**". So, *my phone doesn't have a 3.5 mm jack* ~~(fuck you Apple for popularizing this)~~, and *plugging my MP3s into the USB wouldn't allow me to answer calls over the radio while driving*.
 
-Após tanto tempo sofrendo, mesmo sem grana, a curiosidade me fez abrir o site da Pioneer pra pesquisar possíveis opções que não custassem um absurdo e comparar com o modelo atual, onde acabei me deparando com *aquele segundo botãozinho*:
+After suffering for so long, even without money, curiosity made me open the Pioneer website to research possible options that didn't cost an absurd amount and compare them with the current model, where I ended up coming across *that second little button*:
 
-{{< figure align="center" src="images/screenshot-site-pioneer.png" alt="Captura de tela da página do produto no site da Pioneer." caption="Surge uma nova esperança...?" >}}
+{{< figure align="center" src="/posts/solucoes-obvias-esquecidas/images/screenshot-site-pioneer.png" alt="Product page screenshot on the Pioneer website." caption="A new hope arises...? (buttons says: \"download product firmware\")" >}}
 
-Foi nessa hora que pensei:
+That's when I thought:
 
-> "Por que não? Não custa nada tentar... no pior dos casos essa merda vai *brickar* e servir apenas como peso de papel, nada demais."
+> "Why not? It doesn't hurt to try... worst case scenario, this piece of shit will *brick* and serve only as a paperweight, no big deal."
 
-Refleti um pouco e cheguei a conclusão de que valia a pena correr esse risco desproporcional.
+I thought about it for a bit and came to the conclusion that it was worth taking this disproportionate risk.
 
-Em tempo: parabéns, Pioneer, por fazer o que deveria ser o mínimo ~~mas muita fabricante não faz~~ e disponibilizar os arquivos de atualização do firmware na [página do produto](https://pioneer.com.br/produto/deh-s4080bt/), apesar dele já ter sido descontinuado.
+By the way: congratulations, Pioneer, for doing what should be the bare minimum ~~but many manufacturers don't~~ and making the firmware update files available on the [product page](https://pioneer.com.br/produto/deh-s4080bt/), even though it's already been discontinued.
 
-Enfim, *chega de cornetagem*. Depois de baixar e transferir pro pendrive, só restava seguir as instruções para checar a versão instalada e realizar o procedimento:
+Anyway, *enough rant*. After downloading and transferring it to the flash drive, all that was left to do was following the instructions to check the installed version and perform the procedure:
 
-{{< video src="videos/20250424-125106.mp4" type="video/mp4" loop="false" muted="true" caption="Demonstração do processo de atualização do firmware." >}}
+{{< video src="/posts/solucoes-obvias-esquecidas/videos/20250424-125106.mp4" type="video/mp4" loop="false" muted="true" caption="Firmware update process demonstration." >}}
 
-Após passar por esses minutos de tensão comparáveis ao ato de atualizar a BIOS do PC, reconfigurar tudo, parear o celular novamente e desligar o carro para testar... **não é que o problema foi resolvido mesmo?** Confesso que não estava botando fé, mas achei ótimo pois agora não ficarei mais me coçando para querer trocar o rádio.
+After going through those nerve-wracking minutes comparable to updating your PC's BIOS, reconfiguring everything, pairing the cell phone again and turning off the car to test... **holy shit, the problem was actually solved?** I must confess that I wasn't really confident that this would work, but I'm glad that it did because now I won't be tempted to change the radio anymore.
