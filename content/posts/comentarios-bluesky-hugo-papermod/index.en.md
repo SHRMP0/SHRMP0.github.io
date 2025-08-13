@@ -23,9 +23,9 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
+images: ["/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "images/bluesky-hugo.png" # image path/url
+    image: "/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png" # image path/url
     alt: "Hugo and Bluesky logos." # alt text
     caption: "Hugo and Bluesky logos." # display caption under cover
     relative: true # when using page bundles set this to true

@@ -23,9 +23,9 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
+images: ["/posts/ola/images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "images/caridina-woltereckae-iucn.jpg" # image path/url
+    image: "/posts/ola/images/caridina-woltereckae-iucn.jpg" # image path/url
     alt: "A Caridina woltereckae shrimp." # alt text
     caption: "A Caridina woltereckae shrimp. Photo: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
     relative: true # when using page bundles set this to true

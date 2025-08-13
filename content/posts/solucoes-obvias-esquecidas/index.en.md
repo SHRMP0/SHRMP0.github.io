@@ -23,9 +23,9 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["images/pioneer-deh-s4080bt.png"] # link or path of image for opengraph, twitter-cards
+images: ["/posts/solucoes-obvias-esquecidas/images/pioneer-deh-s4080bt.png"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "images/pioneer-deh-s4080bt.png" # image path/url
+    image: "/posts/solucoes-obvias-esquecidas/images/pioneer-deh-s4080bt.png" # image path/url
     alt: "Pioneer DEH-S4080BT car radio." # alt text
     caption: "Pioneer DEH-S4080BT car radio." # display caption under cover
     relative: true # when using page bundles set this to true
