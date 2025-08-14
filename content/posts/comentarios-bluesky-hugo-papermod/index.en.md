@@ -82,11 +82,11 @@ document.addEventListener("DOMContentLoaded", () => {
       if (thread && thread.$type === "app.bsky.feed.defs#threadViewPost") {
         renderComments(thread, commentsSection);
       } else {
-        commentsSection.textContent = "Erro ao buscar comentários.";
+        commentsSection.textContent = "Error fetching comments.";
       }
     } catch (error) {
       console.error("Error loading comments:", error);
-      commentsSection.textContent = "Erro ao carregar comentários.";
+      commentsSection.textContent = "Error loading comments.";
     }
   })();
 });
@@ -173,22 +173,22 @@ function renderComments(thread, container) {
   const link = document.createElement("a");
   link.href = postUrl;
   link.target = "_blank";
-  link.textContent = `${thread.post.likeCount ?? 0} curtidas | ${thread.post.repostCount ?? 0} repostagens | ${thread.post.replyCount ?? 0} respostas`;
+  link.textContent = `${thread.post.likeCount ?? 0} likes | ${thread.post.repostCount ?? 0} reposts | ${thread.post.replyCount ?? 0} replies`;
   metaDiv.appendChild(link);
 
   container.appendChild(metaDiv);
 
   const commentsHeader = document.createElement("h2");
-  commentsHeader.textContent = "Comentários";
+  commentsHeader.textContent = "Comments";
   container.appendChild(commentsHeader);
 
   const replyText = document.createElement("p");
-  replyText.textContent = "Para comentar, ";
+  replyText.textContent = "To comment, ";
   const replyLink = document.createElement("a");
   replyLink.href = postUrl;
   replyLink.target = "_blank";
   replyLink.style.textDecoration = "underline";
-  replyLink.textContent = "responda a esse post no Bluesky";
+  replyLink.textContent = "reply to this post on Bluesky";
   replyText.appendChild(replyLink);
   container.appendChild(replyText);
 
@@ -209,7 +209,7 @@ function renderComments(thread, container) {
     container.appendChild(commentsContainer);
   } else {
     const noComments = document.createElement("p");
-    noComments.textContent = "Sem comentários disponíveis.";
+    noComments.textContent = "No comments available.";
     container.appendChild(noComments);
   }
 }
@@ -250,7 +250,7 @@ function renderComment(comment) {
 
   const actionsDiv = document.createElement("div");
   actionsDiv.className = "actions";
-  actionsDiv.textContent = `${post.replyCount ?? 0} respostas | ${post.repostCount ?? 0} repostagens | ${post.likeCount ?? 0} curtidas`;
+  actionsDiv.textContent = `${post.replyCount ?? 0} replies | ${post.repostCount ?? 0} reposts | ${post.likeCount ?? 0} likes`;
   commentDiv.appendChild(actionsDiv);
 
   if (comment.replies && comment.replies.length > 0) {

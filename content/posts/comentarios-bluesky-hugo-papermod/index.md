@@ -82,11 +82,11 @@ document.addEventListener("DOMContentLoaded", () => {
       if (thread && thread.$type === "app.bsky.feed.defs#threadViewPost") {
         renderComments(thread, commentsSection);
       } else {
-        commentsSection.textContent = "Erro ao buscar comentários.";
+        commentsSection.textContent = "Error fetching comments.";
       }
     } catch (error) {
       console.error("Error loading comments:", error);
-      commentsSection.textContent = "Erro ao carregar comentários.";
+      commentsSection.textContent = "Error loading comments.";
     }
   })();
 });

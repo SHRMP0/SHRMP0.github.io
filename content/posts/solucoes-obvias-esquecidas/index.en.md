@@ -1,5 +1,5 @@
 ---
-title: "Sometimes the problem's solution..."
+title: "Sometimes a problem's solution..."
 date: 2025-04-30
 # weight: 1
 slug: obvious-forgotten-solutions
@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: true
 bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lollxsflbk2i" # link to your bsky post
-description: "...is hiding in plain sight right under our noses."
+description: "...is hiding in plain sight, right under our noses."
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false
