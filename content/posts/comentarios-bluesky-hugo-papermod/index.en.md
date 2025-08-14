@@ -8,11 +8,11 @@ tags: ["bluesky", "hugo", "papermod", "tutorials"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: true
 bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w" # link to your bsky post
-description: "A simple tutorial to learn how to turn skeets into your website or blog's comment section."
+description: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false
@@ -36,26 +36,26 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Alguns dias atrás, uma das desenvolvedoras do Bluesky escreveu sobre os benefícios do Bluesky ser uma rede aberta [em seu blog](https://emilyliu.me/blog/open-network). Até aí tudo normal, a dev tá vendendo o peixe dela, o que tem demais nisso? Bom, acontece que a seção de comentários é um pouco diferente...
+A few days ago, one of Bluesky's developers wrote about the benefits of Bluesky being an open network [on her blog](https://emilyliu.me/blog/open-network). So far, so good; the dev is just marketing her own product, what's so big about that? Well, it turns out the comments section is a little different...
 
 {{< bluesky link="https://bsky.app/profile/emilyliu.me/post/3lbq7mxsiek2v" >}}
 
-Após o :exploding_head: inicial, as pessoas queriam saber comofas pra utilizar skeets[^1] como seção de comentários em sites e blogs. Sem perder tempo, ela postou [um guia](https://emilyliu.me/blog/comments) próprio baseado [nesse outro guia](https://graysky.app/blog/2024-02-05-adding-blog-comments) ~~que existe desde Fevereiro mas passou batido pra muita gente~~. A partir daí surgiram [mais guias](https://www.coryzue.com/writing/bluesky-comments/) com implementações diferentes, a exemplo [dessa versão](https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d) para sites feitos com o Hugo.
+After the initial :exploding_head:, people wanted to know how to use skeets[^1] as a website or blog's comments section. Wasting no time, she posted [her own guide](https://emilyliu.me/blog/comments) based on [this other guide](https://graysky.app/blog/2024-02-05-adding-blog-comments) ~~which has been around since February but had gone unnoticed by most folks~~. Since then, [more guides](https://www.coryzue.com/writing/bluesky-comments/) have emerged with different implementations, like [this version](https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d) for sites made with Hugo.
 
-## Demonstração
+## Demonstration
 
-Quer ver ao vivo como isso funciona? Fácil demais, vai lá no final dessa página. Que doideira da porra, né? E se quiser testar é só responder a [esse skeet aqui](https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w) no Bluesky, recarregar a página... e voilà!
+Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to [this skeet](https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w) on Bluesky, reload the page... and voilà!
 
-A essa altura você deve estar pensando se vale mesmo a pena esse trabalho todo ou se é apenas firula, e a resposta, na minha opinião, é que compensa sim. Além de simplificar as coisas, como você está utilizando as APIs do próprio Bluesky e [Protocolo AT](https://atproto.com/), isso significa que:
+At this point, you might be wondering if all this work is really worth it or if it's just a fluff, and the answer, in my opinion, is that it is. Besides simplifying things, since you're using Bluesky and [AT Protocol](https://atproto.com)'s own APIs, this means that:
 
-1. Os usuários que você bloquear no Bluesky não aparecerão na seção de comentários; e
-2. O serviço de moderação do Bluesky fornece cobertura adicional contra spam e conteúdo abusivo.
+1. Users you block on Bluesky won't appear in the comments section; and
+2. Bluesky's moderation service provides additional protection against spam and abusive content.
 
 ## Tutorial
 
-Primeiramente, eu **não sou um programador** nem nada assim, então é claro que não teria a capacidade de formular isso tudo do zero. Sendo assim, 99% do código utilizado aqui veio [desse tutorial](https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d) também linkado acima. As alterações que eu fiz se resumem a traduzir parte do texto para português e adaptar uma besteira ou outra pra funcionar melhor com o tema [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) sem precisar editá-lo diretamente e/ou conforme minhas preferências pessoais.
+First of all, I'm **not a programmer** or anything like that, so I obviously wouldn't have the ability to write all of this from scratch. Therefore, 99% of the code used here came from [this tutorial](https://gist.github.com/basyliq/ca50ae5442dce9e4f01b1821de7d973d), also linked above. The changes I made are limited to adapting a few minor tweaks to better match the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme without having to edit it directly and/or according to my personal preferences.
 
-Para começar, crie um arquivo chamado `comments.html` dentro da pasta `/layouts/partials`:
+To begin, create a file called `comments.html` inside the `/layouts/partials` folder:
 
 ```html
 <div id="comments-section" data-bsky-uri="{{ .Params.bsky }}"></div>
@@ -63,7 +63,7 @@ Para começar, crie um arquivo chamado `comments.html` dentro da pasta `/layouts
 <script src="{{ $comments.RelPermalink }}"></script>
 ```
 
-Depois disso crie um arquivo chamado `comments.js` dentro da pasta `/assets/js`:
+After that create a file called `comments.js` inside the `/assets/js` folder:
 
 ```javascript
 document.addEventListener("DOMContentLoaded", () => {
@@ -282,7 +282,7 @@ function isThreadViewPost(obj) {
 }
 ```
 
-Após isso, adicione o seguinte ao arquivo `custom.css` (crie-o se ainda não existir), localizado na pasta `/assets/css/extended`:
+After that, add the following to the `custom.css` file (create it if it doesn't already exist), located in the `/assets/css/extended` folder:
 
 ```css
 .comment {
@@ -316,7 +316,7 @@ Após isso, adicione o seguinte ao arquivo `custom.css` (crie-o se ainda não ex
 }
 ```
 
-Por fim, basta adicionar isso aqui ao cabeçalho dos posts em que deseja habilitar comentários:
+Finally, just add this to the front matter of the posts you want to enable comments on:
 
 ```yaml
 ---
@@ -325,19 +325,19 @@ bsky: "<bsky post url>" # link to your bsky post
 ---
 ```
 
-**Pronto, agora é só testar se está tudo funcionando e ser feliz!**
+**Done, now just test if everything is working and enjoy!**
 
-## Limitações
+## Limitations
 
-Obviamente, por ser algo recente e implementado em tão pouco tempo pela comunidade, a adição de comentários via Bluesky ainda é um processo *artesanal*, por assim dizer. Tem outras coisinhas menores que eu acho irrelevante e não citei, mas as principais limitações que já percebi no código que utilizei são:
+Obviously, because it's something new and implemented so quickly by the community, adding comments via Bluesky is still a *rustic* process, so to speak. There are other minor things that I consider irrelevant and haven't mentioned, but the main limitations I've already noticed in the code I used are:
 
-* Novos comentários não são carregados em tempo real;
-* Não é possível adicionar ou responder a comentários diretamente da página em que eles são mostrados;
-* GIFs, fotos, vídeos e miniaturas de links não são exibidos corretamente; e
-* É preciso linkar o skeet que será usado como seção de comentários em cada página manualmente.
+* New comments aren't loaded in real time;
+* It's not possible to add or reply to comments directly from the page where they're displayed;
+* GIFs, photos, videos, and link thumbnails aren't displayed correctly; and
+* You need to manually link the skeet that will be used as the comments section on each page.
 
-Muito provavelmente essas coisas serão melhoradas no futuro (e devo tentar atualizar o esquema aqui para contemplá-las), mas ainda assim já considero o estado atual dessa integração bom o suficiente para minhas necessidades pelo menos.
+These things will most likely be improved in the future (and I'll try to update stuff here to accommodate them), but I still consider the current state of this integration to be good enough for my needs, at least.
 
-*Se ficou com alguma dúvida, deixa um comentário no post e, com fé, eu ou alguém que entenda melhor do assunto aparecerá pra te ajudar. Se tiver sugestões de como aprimorar algo, pode mandar também.*
+*If you have any questions, leave a comment on the post and, hopefully, I or someone who understands the topic better will show up to help you. If you have any suggestions for improvements, feel free to send them too.*
 
-[^1]: Caso não saiba o motivo de chamarem posts no Bluesky de skeets, [clique aqui](https://knowyourmeme.com/memes/skeet-bluesky-slang).
+[^1]: If you don't know why people call posts on Bluesky "skeets", [click here](https://knowyourmeme.com/memes/skeet-bluesky-slang).

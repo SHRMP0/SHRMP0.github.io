@@ -340,4 +340,4 @@ Muito provavelmente essas coisas serão melhoradas no futuro (e devo tentar atua
 
 *Se ficou com alguma dúvida, deixa um comentário no post e, com fé, eu ou alguém que entenda melhor do assunto aparecerá pra te ajudar. Se tiver sugestões de como aprimorar algo, pode mandar também.*
 
-[^1]: Caso não saiba o motivo de chamarem posts no Bluesky de skeets, [clique aqui](https://knowyourmeme.com/memes/skeet-bluesky-slang).
+[^1]: Caso não saiba o motivo de chamarem posts no Bluesky de "skeets", [clique aqui](https://knowyourmeme.com/memes/skeet-bluesky-slang).
