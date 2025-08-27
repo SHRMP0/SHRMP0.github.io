@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
+# images: ["images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "images/bluesky-hugo.png" # image path/url
     alt: "Logos do Hugo e Bluesky." # alt text

@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["images/IMAGEM-DA-CAPA.png"] # link or path of image for opengraph, twitter-cards
+# images: ["images/IMAGEM-DA-CAPA.png"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "images/IMAGEM-DA-CAPA.png" # image path/url
     alt: "LEGENDA DA IMAGEM DE CAPA" # alt text

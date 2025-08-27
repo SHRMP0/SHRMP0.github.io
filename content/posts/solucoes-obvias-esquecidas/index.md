@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-images: ["images/pioneer-deh-s4080bt.png"] # link or path of image for opengraph, twitter-cards
+# images: ["images/pioneer-deh-s4080bt.png"] # link or path of image for opengraph, twitter-cards
 cover:
     image: "images/pioneer-deh-s4080bt.png" # image path/url
     alt: "Rádio automotivo Pioneer DEH-S4080BT." # alt text

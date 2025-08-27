@@ -122,7 +122,7 @@ params:
     imageHeight: 128
     imageTitle: "O famigerado avatar da capivara com máscara de Jason Voorhees do Age of Empires III: Definitive Edition."
     buttons:
-      - name: Posts
+      - name: Postagens
         url: /posts/
       - name: Descubra
         title: "Quem sabe você não aprende algo novo..."
