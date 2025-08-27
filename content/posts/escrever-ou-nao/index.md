@@ -1,18 +1,18 @@
 ---
-title: "15 anos atrás"
-date: 2024-12-05
+title: "Escrever ou não escrever..."
+date: 2025-08-28
 # weight: 1
-# slug: 15-anos-atras
-# aliases: ["/posts/15-years-ago"]
+# slug: escrever-ou-nao
+# aliases: ["/posts/sindrome-de-imitao"]
 tags: ["etc"]
 author: ["SHRMP0"] # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
-description: "..."
+description: "O grande dilema ou uma enorme besteirada?"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false
@@ -36,6 +36,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Há quinze anos atrás, no dia 5 de Dezembro de 2009, uma pessoa se despedia desse mundo. Mesmo não habitando mais esse plano, ela ainda vive na saudade e nas memórias daqueles que ficaram.
-
-{{< youtube nQPntHe28O8 >}}
+A

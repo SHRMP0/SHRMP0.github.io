@@ -1,18 +1,18 @@
 ---
-title: "15 anos atrás"
-date: 2024-12-05
+title: "To write or not to write..."
+date: 2025-08-28
 # weight: 1
-# slug: 15-anos-atras
-# aliases: ["/posts/15-years-ago"]
+slug: write-or-not
+# aliases: ["/en/posts/imitator-syndrome"]
 tags: ["etc"]
 author: ["SHRMP0"] # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
-description: "..."
+description: "The great dilemma or just some bullshit?"
 disableShare: true
 disableHLJS: false # to disable highlightjs
 hideSummary: false
@@ -32,10 +32,8 @@ cover:
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
+    Text: "Suggest changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
-Há quinze anos atrás, no dia 5 de Dezembro de 2009, uma pessoa se despedia desse mundo. Mesmo não habitando mais esse plano, ela ainda vive na saudade e nas memórias daqueles que ficaram.
-
-{{< youtube nQPntHe28O8 >}}
+A
