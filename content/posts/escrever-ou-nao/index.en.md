@@ -1,6 +1,6 @@
 ---
 title: "To write or not to write..."
-date: 2025-08-28
+date: 2025-09-11
 # weight: 1
 slug: write-or-not
 # aliases: ["/en/posts/imitator-syndrome"]

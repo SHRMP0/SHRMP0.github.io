@@ -1,6 +1,6 @@
 ---
 title: "The lost art of old PC game installers"
-date: 2025-09-01
+date: 2025-09-15
 # weight: 1
 slug: old-game-installers
 # aliases: ["/en/posts/bring-fun-back"]
@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: true
 hidemeta: false
-comments: true
+comments: false
 bsky: "<bsky post url>" # link to your bsky post
 description: "Bring the fun back!"
 disableShare: true

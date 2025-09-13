@@ -10,8 +10,8 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: true
-bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lollxsflbk2i" # link to your bsky post
+comments: false
+bsky: "<bsky post url>" # link to your bsky post
 description: "...is hiding in plain sight, right under our noses."
 disableShare: true
 disableHLJS: false # to disable highlightjs

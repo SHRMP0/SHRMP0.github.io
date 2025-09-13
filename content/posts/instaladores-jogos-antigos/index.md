@@ -1,6 +1,6 @@
 ---
 title: "A arte perdida dos instaladores de jogos de PC antigos"
-date: 2025-09-01
+date: 2025-09-15
 # weight: 1
 # slug: instaladores-jogos-antigos
 # aliases: ["/posts/devolvam-a-diversao"]
@@ -10,7 +10,7 @@ showToc: true
 TocOpen: false
 draft: true
 hidemeta: false
-comments: true
+comments: false
 bsky: "<bsky post url>" # link to your bsky post
 description: "Devolvam a nossa diversão!"
 disableShare: true

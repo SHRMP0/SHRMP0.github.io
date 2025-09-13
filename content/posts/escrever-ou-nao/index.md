@@ -1,6 +1,6 @@
 ---
 title: "Escrever ou não escrever..."
-date: 2025-08-28
+date: 2025-09-11
 # weight: 1
 # slug: escrever-ou-nao
 # aliases: ["/posts/sindrome-de-imitao"]
