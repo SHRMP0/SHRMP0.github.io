@@ -1,6 +1,6 @@
 ---
 title: "A arte perdida dos instaladores de jogos de PC antigos"
-date: 2025-09-15
+date: 2025-09-13
 # weight: 1
 # slug: instaladores-jogos-antigos
 # aliases: ["/posts/devolvam-a-diversao"]
@@ -8,7 +8,7 @@ tags: ["etc", "jogos", "PC"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
@@ -23,11 +23,11 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["images/sims-1-setup.jpg"] # link or path of image for opengraph, twitter-cards
+# images: ["images/sims-2-setup.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "images/sims-1-setup.jpg" # image path/url
-    alt: "Captura de tela do instalador do The Sims 1." # alt text
-    caption: "Captura de tela do instalador do The Sims 1." # display caption under cover
+    image: "images/sims-2-setup.jpg" # image path/url
+    alt: "Captura de tela do instalador do The Sims 2." # alt text
+    caption: "Captura de tela do instalador do The Sims 2. Imagem: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
@@ -36,10 +36,16 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-A
+**InstallShield Wizard**. Se você já instalou ou removeu algum jogo do seu computador com Windows XP, Vista ou 7, certamente deve ter lido esse nome alguma(s) vez(es) na sua vida. Não irei elaborar.
+
+Pois é, as coisas eram diferentes antes de todo mundo poder ter internet rápida em casa e da distribuição dos videojogos de PC ser dominada pela [Steam](https://store.steampowered.com/), [Epic Games Store](https://store.epicgames.com/) e tantas outras. O padrão da época era comprar nossos joguinhos em CDs e DVDs que vinham *prontos para instalar e rodar*, sem necessidade de downloads adicionais. Dá pra acreditar? Apenas uma sequência de "*next, next, install, finish*" ocasionalmente interrompida por prompts para aceitar os termos, digitar a CD key (e o drive óptico berrando mais que uma moto cortando giro como som de fundo)...
+
+*Mas será que não dá pra ser mais do que isso?*
 
 {{< youtube mVAIj0elLR8 >}}
 
-B
+Obviamente, não era tudo igual. E para o nosso deleite, haviam desenvolvedores que não queriam ficar apenas no feijão com arroz e correram atrás para criar experiências fodas com *música, efeitos sonoros, artes e animações super elaboradas (ou até mesmo minigames)* que envelheceram bem e ainda impressionam até hoje:
 
 {{< youtube U_gWEvynWgw >}}
+
+Diferente do que costumamos ver atualmente, hein? Chega bate uma nostalgia desse tempo bom... mas sejamos justos: ainda existem lojas como a [GOG](https://www.gog.com/) que disponibilizam instaladores offline (com uma aparência super básica), o que é ótimo! Mas não é sobre isso que estamos tratando. O ponto é que os games de hoje em dia não conseguem mais fazer *nos sentirmos dentro deles antes mesmo de estarem prontos para serem jogados*, e **isso faz falta**.

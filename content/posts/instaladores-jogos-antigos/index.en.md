@@ -1,6 +1,6 @@
 ---
 title: "The lost art of old PC game installers"
-date: 2025-09-15
+date: 2025-09-13
 # weight: 1
 slug: old-game-installers
 # aliases: ["/en/posts/bring-fun-back"]
@@ -8,7 +8,7 @@ tags: ["etc", "games", "PC"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 bsky: "<bsky post url>" # link to your bsky post
@@ -23,11 +23,11 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["/posts/instaladores-jogos-antigos/images/sims-1-setup.jpg"] # link or path of image for opengraph, twitter-cards
+# images: ["/posts/instaladores-jogos-antigos/images/sims-2-setup.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "/posts/instaladores-jogos-antigos/images/sims-1-setup.jpg" # image path/url
-    alt: "The Sims 1 installer screenshot." # alt text
-    caption: "The Sims 1 installer screenshot." # display caption under cover
+    image: "/posts/instaladores-jogos-antigos/images/sims-2-setup.jpg" # image path/url
+    alt: "The Sims 2 installer screenshot." # alt text
+    caption: "The Sims 2 installer screenshot. Image: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
@@ -36,10 +36,16 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-A
+**InstallShield Wizard**. If you've ever installed or removed a game from your Windows XP, Vista, or 7 computer, you've probably heard this name at least once in your life. I will not elaborate.
+
+Yeah, things were different before everyone had fast internet at home and PC video game distribution was dominated by [Steam](https://store.steampowered.com/), [Epic Games Store](https://store.epicgames.com/), and so many others. The standard back then was to buy our games on CDs and DVDs that came *ready to install and run*, with no additional downloads required. Can you believe it? Just a sequence of "*next, next, install, finish*" occasionally interrupted by prompts to accept the terms and enter the CD key (plus the optical drive screaming louder than a motorcycle revving in the background)...
+
+*Surely it can be more than that, right?*
 
 {{< youtube mVAIj0elLR8 >}}
 
-B
+Of course, not everything was created equally. And to our delight, there were developers who didn't want to settle and went the extra mile to create awesome experiences featuring *music, sound effects, art, and super-elaborate animations (or even minigames)* that have aged well and still holds up to this day:
 
 {{< youtube U_gWEvynWgw >}}
+
+Different from what we're used to seeing these days, huh? It's a bit nostalgic, even... but let's be fair: there are still stores like [GOG](https://www.gog.com/) that offer offline installers (with a super basic look), which is great! But that's not what we're talking about. The point is that today's games no longer make us *feel like we're inside them before they're even ready to be played*, and **I miss that**.
