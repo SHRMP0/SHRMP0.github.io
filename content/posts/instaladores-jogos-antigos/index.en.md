@@ -54,4 +54,6 @@ Of course, not everything was created equally. Each installer had its own identi
 
 Different from what we're used to seeing these days, huh? It's a bit nostalgic, even...
 
-But let's be fair: there are still stores like [GOG](https://www.gog.com/) that offer offline installers (rocking a very basic look and built-in ads, unfortunately), which is great! But that's not what we're talking about. The point is that today's games no longer make us *feel like we're inside them before they're even ready to be played*, and **I miss that**. Perhaps the closest thing to this that's still within our reach are pirated game installers with their creative keygens and activators (long live the resistance!), but that's a conversation for another day.
+But let's be fair: there are still stores like [GOG](https://www.gog.com/) that offer offline installers (rocking a very basic look and built-in ads, unfortunately), which is great! But that's not what we're talking about. The point is that today's games no longer make us *feel like we're inside them before they're even ready to be played*, and **I miss that**.
+
+Perhaps the closest thing to this that's still within our reach are pirated game installers with their creative keygens and activators (*long live the resistance*!), but that's a conversation for another day.

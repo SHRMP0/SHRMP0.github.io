@@ -45,6 +45,7 @@ A pacata vida do PC gamer se resumia a apenas uma sequência de "*next, next, in
 *Mas será que não dá pra ser mais do que isso*?
 
 {{< youtube mVAIj0elLR8 >}}
+
 Pergunta pro Gabe Newell se a lojinha online dele consegue fazer isso.
 
 Obviamente, não era tudo igual. Cada instalador tinha sua identidade, e para o nosso deleite, haviam desenvolvedores que não queriam ficar apenas no feijão com arroz e correram atrás para criar experiências fodas com *música, efeitos sonoros, artes e animações super elaboradas (ou até mesmo minigames)* que envelheceram bem e ainda impressionam até hoje:
@@ -53,4 +54,6 @@ Obviamente, não era tudo igual. Cada instalador tinha sua identidade, e para o 
 
 Diferente do que costumamos ver atualmente, hein? Chega bate uma nostalgia desse tempo bom...
 
-Mas sejamos justos: ainda existem lojas como a [GOG](https://www.gog.com/) que disponibilizam instaladores offline (com uma aparência super básica e propaganda embutida, infelizmente), o que é ótimo! Mas não é sobre isso que estamos tratando. O ponto é que os games de hoje em dia não conseguem mais fazer *nos sentirmos dentro deles antes mesmo de estarem prontos para serem jogados*, e **isso faz falta**. Talvez o mais próximo disso que ainda está ao nosso alcance sejam os instaladores de jogos pirateados com seus keygens e ativadores criativos (viva a resistência!), mas esse é um papo para outro dia.
+Mas sejamos justos: ainda existem lojas como a [GOG](https://www.gog.com/) que disponibilizam instaladores offline (com uma aparência super básica e propaganda embutida, infelizmente), o que é ótimo! Mas não é sobre isso que estamos tratando. O ponto é que os games de hoje em dia não conseguem mais fazer *nos sentirmos dentro deles antes mesmo de estarem prontos para serem jogados*, e **isso faz falta**.
+
+Talvez o mais próximo disso que ainda está ao nosso alcance sejam os instaladores de jogos pirateados com seus keygens e ativadores criativos (*viva a resistência*!), mas esse é um papo para outro dia.
