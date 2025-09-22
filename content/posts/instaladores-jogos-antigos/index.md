@@ -4,7 +4,7 @@ date: 2025-09-13
 # weight: 1
 # slug: instaladores-jogos-antigos
 # aliases: ["/posts/devolvam-a-diversao"]
-tags: ["etc", "jogos", "PC"]
+tags: ["jogos", "PC"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false

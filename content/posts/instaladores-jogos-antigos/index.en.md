@@ -4,7 +4,7 @@ date: 2025-09-13
 # weight: 1
 slug: old-game-installers
 # aliases: ["/en/posts/bring-fun-back"]
-tags: ["etc", "games", "PC"]
+tags: ["games", "PC"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false

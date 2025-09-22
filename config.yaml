@@ -32,6 +32,9 @@ languages:
         text: "Home"
       
       profileMode:
+        imageUrl: "/images/capybara-aoe3de.png"
+        imageWidth: 128
+        imageHeight: 128
         subtitle: "Hi! This is my website where I post whatever I feel like... expect randomness. This isn't the only place where I hangout, you can also find me at:"
         imageTitle: "The capybara wearing Jason Voorhees' mask avatar from Age of Empires III: Definitive Edition."
         buttons:
@@ -39,7 +42,7 @@ languages:
             url: /en/posts/
           - name: Discover
             title: "Perhaps you'll learn something new..."
-            url: https://en.wikipedia.org/wiki/Capybara
+            url: "https://en.wikipedia.org/wiki/Special:Random"
       
       homeInfoParams:
         Content: "Hi! This is my website where I post whatever I feel like... expect randomness. This isn't the only place where I hangout, you can also find me at:"
@@ -77,7 +80,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SHRMP0
   description: "Oi! Este é o meu site onde eu posto o que me der na telha... espere aleatoriedades."
-  keywords: [Blog, Homepage, Personal]
+  keywords: ["Blog", "Homepage", "Personal"]
   author: "SHRMP0" # ["Me", "You"] multiple authors
   images: ["/opengraph.png"] # link or path of image for opengraph, twitter-cards
   DateFormat: "2 de January de 2006"
@@ -117,16 +120,16 @@ params:
     enabled: true # needs to be explicitly set
     title: "\U0001F364 SHRMP0 \U0001F990"
     subtitle: "Oi! Este é o meu site onde eu posto o que me der na telha... espere aleatoriedades. Aqui não é o único lugar que habito, você também pode me encontrar em:"
-    imageUrl: "/images/capybara-aoe3de.png"
+    imageUrl: "/images/capybara-aoe3de2.png"
     imageWidth: 128
     imageHeight: 128
-    imageTitle: "O famigerado avatar da capivara com máscara de Jason Voorhees do Age of Empires III: Definitive Edition."
+    imageTitle: "O famigerado avatar da capivara com laço e coroa de flores do Age of Empires III: Definitive Edition."
     buttons:
       - name: Postagens
         url: /posts/
       - name: Descubra
         title: "Quem sabe você não aprende algo novo..."
-        url: "https://pt.wikipedia.org/wiki/Capivara"
+        url: "https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria"
 
   # home-info mode
   homeInfoParams:
@@ -189,9 +192,9 @@ menus:
     - name: Pesquisar
       url: /search/
       weight: 20
-    - name: "\U0001F480"
-      title: "Tem coragem de clicar?"
-      url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    - name: "Lerama"
+      title: "Um diretório de blogs pessoais."
+      url: "https://lerama.pcdomanual.com/"
       weight: 30
 weight: 1
 

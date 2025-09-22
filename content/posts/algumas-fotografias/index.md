@@ -4,7 +4,7 @@ date: 2024-10-21
 # weight: 1
 # slug: algumas-fotografias
 # aliases: ["/posts/fotos"]
-tags: ["etc", "fotos"]
+tags: ["fotos"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: false
 TocOpen: false

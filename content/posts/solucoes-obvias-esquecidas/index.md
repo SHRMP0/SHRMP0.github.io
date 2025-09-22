@@ -4,7 +4,7 @@ date: 2025-04-30
 # weight: 1
 # slug: solucoes-obvias-esquecidas
 # aliases: ["/posts/bluetooth-radio-pioneer"]
-tags: ["bluetooth", "dicas", "pioneer"]
+tags: ["bluetooth", "pioneer"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: true
 TocOpen: false

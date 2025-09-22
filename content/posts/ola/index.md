@@ -4,7 +4,7 @@ date: 2024-09-05
 # weight: 1
 # slug: ola
 # aliases: ["/posts/first"]
-tags: ["first"]
+tags: ["etc"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 showToc: false
 TocOpen: false
