@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w" # link to your bsky post
+bsky: "https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvfh6no22i" # link to your bsky post
 description: "Um tutorial simples para aprender a transformar skeets na seção de comentários do seu site ou blog."
 disableShare: true
 disableHLJS: false # to disable highlightjs
@@ -44,7 +44,7 @@ Após o :exploding_head: inicial, as pessoas queriam saber comofas pra utilizar 
 
 ## Demonstração
 
-Quer ver ao vivo como isso funciona? Fácil demais, vai lá no final dessa página. Que doideira da porra, né? E se quiser testar é só responder a [esse skeet aqui](https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w) no Bluesky, recarregar a página... e voilà!
+Quer ver ao vivo como isso funciona? Fácil demais, vai lá no final dessa página. Que doideira da porra, né? E se quiser testar é só responder a [esse skeet aqui](https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvfh6no22i) no Bluesky, recarregar a página... e voilà!
 
 A essa altura você deve estar pensando se vale mesmo a pena esse trabalho todo ou se é apenas firula, e a resposta, na minha opinião, é que compensa sim. Além de simplificar as coisas, como você está utilizando as APIs do próprio Bluesky e [Protocolo AT](https://atproto.com/), isso significa que:
 

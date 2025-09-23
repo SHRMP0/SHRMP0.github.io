@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w" # link to your bsky post
+bsky: "https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvfh6no22i" # link to your bsky post
 description: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
 disableShare: true
 disableHLJS: false # to disable highlightjs
@@ -44,7 +44,7 @@ After the initial :exploding_head:, people wanted to know how to use skeets[^1] 
 
 ## Demonstration
 
-Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to [this skeet](https://bsky.app/profile/shrmp0.com.br/post/3lbwuvfwyuk2w) on Bluesky, reload the page... and voilà!
+Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to [this skeet](https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvfh6no22i) on Bluesky, reload the page... and voilà!
 
 At this point, you might be wondering if all this work is really worth it or if it's just a fluff, and the answer, in my opinion, is that it is. Besides simplifying things, since you're using Bluesky and [AT Protocol](https://atproto.com)'s own APIs, this means that:
 

@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-bsky: "https://bsky.app/profile/shrmp0.com.br/post/3lyq5zhluts2c" # link to your bsky post
+bsky: "https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvsh5a5c2i" # link to your bsky post
 description: "Bring the fun back!"
 disableShare: true
 disableHLJS: false # to disable highlightjs

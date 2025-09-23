@@ -10,8 +10,8 @@ showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
+comments: true
+bsky: "https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvdteqwk2i" # link to your bsky post
 description: "O título é autoexplicativo."
 disableShare: true
 disableHLJS: false # to disable highlightjs
