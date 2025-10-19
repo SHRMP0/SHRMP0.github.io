@@ -23,12 +23,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["/posts/ola/images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
+# images: ["images/caridina-woltereckae-iucn.en.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "/posts/ola/images/caridina-woltereckae-iucn.jpg" # image path/url
+    image: "images/caridina-woltereckae-iucn.en.jpg" # image path/url
     alt: "A Caridina woltereckae shrimp." # alt text
     caption: "A Caridina woltereckae shrimp. Photo: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"

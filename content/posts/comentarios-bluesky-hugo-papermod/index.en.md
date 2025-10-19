@@ -23,12 +23,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png"] # link or path of image for opengraph, twitter-cards
+# images: ["images/bluesky-hugo.en.png"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "/posts/comentarios-bluesky-hugo-papermod/images/bluesky-hugo.png" # image path/url
+    image: "images/bluesky-hugo.en.png" # image path/url
     alt: "Hugo and Bluesky logos." # alt text
     caption: "Hugo and Bluesky logos." # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"

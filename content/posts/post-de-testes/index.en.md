@@ -23,12 +23,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["/posts/post-de-testes/images/IMAGEM-DA-CAPA.png"] # link or path of image for opengraph, twitter-cards
+# images: ["images/IMAGEM-DA-CAPA.en.png"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "/posts/post-de-testes/images/IMAGEM-DA-CAPA.png" # image path/url
+    image: "images/IMAGEM-DA-CAPA.en.png" # image path/url
     alt: "COVER IMAGE CAPTION" # alt text
     caption: "COVER IMAGE CAPTION" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
@@ -56,7 +56,7 @@ It's an established fact that a reader is distracted by the readable content of 
 
 **[Click here](https://pt.lipsum.com/).** There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humor, or randomized words which don't even look quite believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the internet end up repeating chunks of predefined text as necessary, making this the first true generator on the internet. It uses a dictionary of 200 Latin words, combined with a dozen model sentence structures, to generate Lorem Ipsum which looks reasonable. In this way, the generated Lorem Ipsum is always free from repetition, injected humor, etc.
 
-{{< figure align="center" src="/posts/post-de-testes/images/IMAGEM-NO-CORPO.png" title="BODY IMAGE TITLE" alt="CAPTION OF THE IMAGE ON THE BODY" caption="CAPTION OF THE IMAGE ON THE BODY" >}}
+{{< figure align="center" src="images/IMAGEM-NO-CORPO.en.png" title="BODY IMAGE TITLE" alt="CAPTION OF THE IMAGE ON THE BODY" caption="CAPTION OF THE IMAGE ON THE BODY" >}}
 
 ## The passage of Lorem Ipsum used since the 1500s
 

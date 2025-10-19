@@ -23,12 +23,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["/posts/instaladores-jogos-antigos/images/sims-2-setup.jpg"] # link or path of image for opengraph, twitter-cards
+# images: ["images/sims-2-setup.en.jpg"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "/posts/instaladores-jogos-antigos/images/sims-2-setup.jpg" # image path/url
+    image: "images/sims-2-setup.en.jpg" # image path/url
     alt: "The Sims 2 installer screenshot." # alt text
     caption: "The Sims 2 installer screenshot. Image: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"

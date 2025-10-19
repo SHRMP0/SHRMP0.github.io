@@ -23,12 +23,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# images: ["/posts/solucoes-obvias-esquecidas/images/pioneer-deh-s4080bt.png"] # link or path of image for opengraph, twitter-cards
+# images: ["images/pioneer-deh-s4080bt.en.png"] # link or path of image for opengraph, twitter-cards
 cover:
-    image: "/posts/solucoes-obvias-esquecidas/images/pioneer-deh-s4080bt.png" # image path/url
+    image: "images/pioneer-deh-s4080bt.en.png" # image path/url
     alt: "Pioneer DEH-S4080BT car radio." # alt text
     caption: "Pioneer DEH-S4080BT car radio." # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
@@ -50,7 +50,7 @@ This is the moment when you're probably thinking this is just another dumb first
 
 After suffering for so long, even without money, curiosity made me open the Pioneer website to research possible options that didn't cost an absurd amount and compare them with the current model, where I ended up coming across *that second little button*:
 
-{{< figure align="center" src="/posts/solucoes-obvias-esquecidas/images/screenshot-site-pioneer.png" alt="Product page screenshot on the Pioneer website." caption="A new hope arises...? (buttons says: \"download product firmware\")" >}}
+{{< figure align="center" src="images/screenshot-site-pioneer.en.png" alt="Product page screenshot on the Pioneer website." caption="A new hope arises...? (buttons says: \"download product firmware\")" >}}
 
 That's when I thought:
 
@@ -62,6 +62,6 @@ By the way: congratulations, Pioneer, for doing what should be the bare minimum 
 
 Anyway, *enough rant*. After downloading and transferring it to the flash drive, all that was left to do was following the instructions to check the installed version and perform the procedure:
 
-{{< video src="/posts/solucoes-obvias-esquecidas/videos/20250424-125106.mp4" type="video/mp4" loop="false" muted="true" caption="Firmware update process demonstration." >}}
+{{< video src="videos/20250424-125106.en.mp4" type="video/mp4" loop="false" muted="true" caption="Firmware update process demonstration." >}}
 
 After going through those nerve-wracking minutes comparable to updating your PC's BIOS, reconfiguring everything, pairing the cell phone again and turning off the car to test... **holy shit, the problem was actually solved?** I must confess that I wasn't really confident that this would work, but I'm glad that it did because now I won't be tempted to change the radio anymore.
