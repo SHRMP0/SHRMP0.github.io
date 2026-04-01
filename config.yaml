@@ -144,9 +144,6 @@ params:
     - name: github
       title: GitHub
       url: "https://github.com/SHRMP0"
-    - name: linkedin
-      title: LinkedIn
-      url: "https://www.linkedin.com/in/davigazevedo/"
     - name: steam
       title: Steam
       url: "https://steamcommunity.com/id/shrmp0"
