@@ -10,8 +10,8 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: true
-bsky: "https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvfh6no22i" # link to your bsky post
+comments: false
+bsky: "<bsky post url>" # link to your bsky post
 description: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
 disableShare: true
 disableHLJS: false # to disable highlightjs
