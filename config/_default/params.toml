@@ -5,15 +5,15 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "github"
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
-enableA11y = false
+enableA11y = true
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 enableStructuredBreadcrumbs = false
-# enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
+enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
 
 replyByEmail = false
 
@@ -23,27 +23,27 @@ replyByEmail = false
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
-# backgroundImageWidth = 1200
+backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
-# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultBackgroundImage = "background.jpg" # used as default for background images
+# defaultFeaturedImage = "featured.jpg" # used as default for featured images in all articles
+defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
-# thumbnailAspectRatio = "1.5"
-# imagePosition = "50% 50%"
+thumbnailAspectRatio = "1.5"
+imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
 
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
-giteaDefaultServer = "https://git.fsfe.org"
-forgejoDefaultServer = "https://v11.next.forgejo.org"
+# giteaDefaultServer = "https://git.fsfe.org"
+# forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -53,8 +53,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "homepage.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -71,44 +71,44 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
-  # showAuthorBottom = false
+  showAuthorBottom = false
   showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
+  showEdit = true
+  editURL = "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false # Enable the display of taxonomies for the related article.
-  showCategories = true # These will show if showTaxonomies is true.
+  showTableOfContents = true
+  showRelatedContent = false
+  relatedContentLimit = 3
+  showTaxonomies = true # Enable the display of taxonomies for the related article.
+  showCategories = false # These will show if showTaxonomies is true.
   showTags = true # These will show if showTaxonomies is true.
-  showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
+  showCategoriesInSecondaryColor = true # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
+  sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
   showZenMode = false
-  # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
+  externalLinkForceNewTab = true # disable to allow external links in the same tab (defaults to true)
 
 [list]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showSummary = false
+  showBreadcrumbs = true
+  showSummary = true
   showViews = false
   showLikes = false
-  showTableOfContents = false
+  showTableOfContents = true
   showCards = false
   orderByWeight = false
   groupByYear = true
@@ -122,25 +122,25 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [taxonomy]
   showTermCount = true
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
-  showTableOfContents = false
+  showTableOfContents = true
   cardView = false
 
 [term]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
   showTableOfContents = true
-  groupByYear = false
+  groupByYear = true
   cardView = false
   cardViewScreenWidth = false
 

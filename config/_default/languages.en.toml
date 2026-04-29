@@ -1,33 +1,33 @@
 disabled = false
 locale = "en"
 label = "English"
-weight = 1
-title = "Blowfish"
+weight = 2
+title = "SHRMP0"
 
 [params]
   displayName = "EN"
-  isoCode = "en"
+  isoCode = "en-US"
   rtl = false
-  dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  dateFormat = "January 2, 2006"
+  logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "Hi! This is my website where I post whatever I feel like... expect randomness."
+  copyright = "2024–{ year } · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+  name = "SHRMP0"
 #   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
+  image = "img/author.en.png"
+  imageQuality = 96
+  headline = "Hi! This is my website where I post whatever I feel like... expect randomness. This isn't the only place where I hangout, you can also find me at:"
+  bio = "The owner of da shrimp website"
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
-#     { bluesky = "https://bsky.app/profile/username" },
+    { bluesky = "https://bsky.app/profile/shrmp0.com.br" },
 #     { codepen = "https://codepen.io/username" },
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
@@ -35,7 +35,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/SHRMP0" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -61,19 +61,19 @@ title = "Blowfish"
 #     { soundcloud = "https://soundcloud.com/username" },
 #     { spotify = "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
-#     { steam = "https://steamcommunity.com/profiles/userid" },
+    { steam = "https://steamcommunity.com/id/shrmp0" },
 #     { strava = "https://www.strava.com/athletes/username" },
 #     { telegram = "https://t.me/username" },
 #     { threads = "https://www.threads.net/@username" },
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
-#     { twitch = "https://twitch.tv/username" },
+    { twitch = "https://www.twitch.tv/shrmp0" },
 #     { untappd = "https://untappd.com/user/username" },
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+    { youtube = "https://www.youtube.com/@SHRMP0" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+  ]
