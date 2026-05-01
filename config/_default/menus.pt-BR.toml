@@ -10,60 +10,48 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Início"
+  url = "/"
+  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Tags"
+  parent = "Blog"
+  pageRef = "tags"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+# [[subnavigation]]
+#   name = "Example 1"
+#   pageRef = "tags/interesting-topic"
+#   weight = 10
 
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
+# [[subnavigation]]
+#   name = "Example 2"
+#   pre = "github"
+#   pageRef = "categories/awesome"
+#   weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+[[footer]]
+  name = "Descubra"
+  url = "https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria"
+  weight = 10
+  
+[[footer]]
+  name = "Lerama"
+  url = "https://lerama.pcdomanual.com/"
+  weight = 20
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = ":skull:"
+  url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  weight = 30

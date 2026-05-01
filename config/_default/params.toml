@@ -22,11 +22,11 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = false
+disableTextInHeader = true
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "background.jpg" # used as default for background images
-# defaultFeaturedImage = "featured.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "images/background.JPG" # used as default for background images
+# defaultFeaturedImage = "images/featured.jpg" # used as default for featured images in all articles
 defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
@@ -43,7 +43,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 # forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -54,10 +54,10 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "homepage.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = false
+  homepageImage = "images/homepage.JPG" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 1
+  showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
@@ -69,11 +69,11 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showViews = false
   showLikes = false
   showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showAuthorBottom = false
-  showHero = false
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -87,7 +87,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = false
+  showRelatedContent = true
   relatedContentLimit = 3
   showTaxonomies = true # Enable the display of taxonomies for the related article.
   showCategories = false # These will show if showTaxonomies is true.
@@ -96,7 +96,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showAuthorsBadges = false
   showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  showZenMode = true
   externalLinkForceNewTab = true # disable to allow external links in the same tab (defaults to true)
 
 [list]
@@ -109,7 +109,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
   cardView = false

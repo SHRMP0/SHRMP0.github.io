@@ -1,39 +1,15 @@
 ---
 title: "Algumas fotografias"
 date: 2024-10-21
+# modified: 2024-10-21
 # weight: 1
 # slug: algumas-fotografias
-# aliases: ["/posts/fotos"]
 tags: ["fotos"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: false
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "O título é autoexplicativo."
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/caution-heels-slippers.jpg"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/caution-heels-slippers.jpg" # image path/url
-    alt: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # alt text
-    caption: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "O título é autoexplicativo."
+featureimagecaption: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # display caption under cover
 ---
 
 Nada de especial, são literalmente apenas algumas fotografias que eu tirei usando o celular (na vertical mesmo) em algum momento no passado e quis repostar aqui. Como não tinha mais os arquivos originais, peguei do meu perfil no Bluesky e redimensionei, o que provavelmente explica os artefatos de compressão nas imagens.

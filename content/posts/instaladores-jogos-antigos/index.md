@@ -1,39 +1,15 @@
 ---
 title: "A arte perdida dos instaladores de jogos de PC antigos"
 date: 2025-09-13
+# modified: 2025-09-13
 # weight: 1
 # slug: instaladores-jogos-antigos
-# aliases: ["/posts/devolvam-a-diversao"]
 tags: ["jogos", "PC"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "Devolvam a nossa diversão!"
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/sims-2-setup.jpg"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/sims-2-setup.jpg" # image path/url
-    alt: "Captura de tela do instalador do The Sims 2." # alt text
-    caption: "Captura de tela do instalador do The Sims 2. Imagem: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "Devolvam a nossa diversão!"
+featureimagecaption: "Captura de tela do instalador do The Sims 2. Imagem: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
 ---
 
 **InstallShield Wizard**. Se você já instalou ou removeu algum jogo do seu computador com Windows XP, Vista ou 7, certamente deve ter lido esse nome alguma(s) vez(es) na sua vida. Não irei elaborar.

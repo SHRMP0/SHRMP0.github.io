@@ -1,39 +1,15 @@
 ---
 title: "Adding Bluesky comments to Hugo PaperMod"
 date: 2024-11-27
+modified: 2026-04-30
 # weight: 1
 slug: bluesky-comments-hugo-papermod
-# aliases: ["/en/posts/bsky-comments-hugo"]
 tags: ["bluesky", "hugo", "papermod", "tutorials"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/bluesky-hugo.en.png"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/bluesky-hugo.en.png" # image path/url
-    alt: "Hugo and Bluesky logos." # alt text
-    caption: "Hugo and Bluesky logos." # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Suggest changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
+featureimagecaption: "Hugo and Bluesky logos." # display caption under cover
 ---
 
 A few days ago, one of Bluesky's developers wrote about the benefits of Bluesky being an open network [on her blog](https://emilyliu.me/blog/open-network). So far, so good; the dev is just marketing her own product, what's so big about that? Well, it turns out the comments section is a little different...
@@ -44,7 +20,7 @@ After the initial :exploding_head:, people wanted to know how to use skeets[^1] 
 
 ## Demonstration
 
-Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to [this skeet](https://bsky.app/profile/saite.shrmp0.com.br/post/3lzjvfh6no22i) on Bluesky, reload the page... and voilà!
+~~Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to this skeet on Bluesky, reload the page... and voilà!~~
 
 At this point, you might be wondering if all this work is really worth it or if it's just a fluff, and the answer, in my opinion, is that it is. Besides simplifying things, since you're using Bluesky and [AT Protocol](https://atproto.com)'s own APIs, this means that:
 

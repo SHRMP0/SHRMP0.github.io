@@ -5,19 +5,19 @@ weight = 1
 title = "SHRMP0"
 
 [params]
-  displayName = "PT"
+  displayName = "Português"
   isoCode = "pt-BR"
   rtl = false
-  dateFormat = "2 January 2006"
-  logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  dateFormat = "2 de January de 2006"
+  logo = "images/logo.png"
+  # secondaryLogo = "images/secondary-logo.png"
   description = "Oi! Este é o meu site onde eu posto o que me der na telha... espere aleatoriedades."
   copyright = "2024–{ year } · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
 [params.author]
   name = "SHRMP0"
 #   email = "youremail@example.com"
-  image = "img/author.png"
+  image = "images/author.png"
   imageQuality = 96
   headline = "Oi! Este é o meu site onde eu posto o que me der na telha... espere aleatoriedades. Aqui não é o único lugar que habito, você também pode me encontrar em:"
   bio = "O dono do saite do camarão"

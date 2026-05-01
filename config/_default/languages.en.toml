@@ -5,19 +5,19 @@ weight = 2
 title = "SHRMP0"
 
 [params]
-  displayName = "EN"
+  displayName = "English"
   isoCode = "en-US"
   rtl = false
   dateFormat = "January 2, 2006"
-  logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "images/logo.png"
+  # secondaryLogo = "images/secondary-logo.png"
   description = "Hi! This is my website where I post whatever I feel like... expect randomness."
   copyright = "2024–{ year } · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
 [params.author]
   name = "SHRMP0"
 #   email = "youremail@example.com"
-  image = "img/author.en.png"
+  image = "images/author.en.png"
   imageQuality = 96
   headline = "Hi! This is my website where I post whatever I feel like... expect randomness. This isn't the only place where I hangout, you can also find me at:"
   bio = "The owner of da shrimp website"
