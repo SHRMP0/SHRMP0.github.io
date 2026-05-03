@@ -1,39 +1,15 @@
 ---
 title: "The lost art of old PC game installers"
 date: 2025-09-13
+# modified: 2025-09-13
 # weight: 1
 slug: old-game-installers
-# aliases: ["/en/posts/bring-fun-back"]
 tags: ["games", "PC"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "Bring the fun back!"
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/sims-2-setup.en.jpg"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/sims-2-setup.en.jpg" # image path/url
-    alt: "The Sims 2 installer screenshot." # alt text
-    caption: "The Sims 2 installer screenshot. Image: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Suggest changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "Bring the fun back!"
+featureimagecaption: "The Sims 2 installer screenshot. Image: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
 ---
 
 **InstallShield Wizard**. If you've ever installed or removed a game from your Windows XP, Vista, or 7 computer, you've probably heard this name at least once in your life. I will not elaborate.

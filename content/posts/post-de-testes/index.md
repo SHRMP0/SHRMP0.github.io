@@ -1,39 +1,15 @@
 ---
 title: "Post de testes"
 date: 1970-01-01
+modified: 1999-12-31
 # weight: 1
 # slug: post-de-testes
-# aliases: ["/posts/teste"]
 tags: ["teste"]
 author: ["SHRMP0", "Alberto Simões (Lipsum)"] # ["Me", "You"] multiple authors
-showToc: true
-TocOpen: false
 draft: true
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/IMAGEM-DA-CAPA.png"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/IMAGEM-DA-CAPA.png" # image path/url
-    alt: "LEGENDA DA IMAGEM DE CAPA" # alt text
-    caption: "LEGENDA DA IMAGEM DE CAPA" # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
+featureimagecaption: "LEGENDA DA IMAGEM DE CAPA" # display caption under cover
 ---
 
 > "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."[^1]

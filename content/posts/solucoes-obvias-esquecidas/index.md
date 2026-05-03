@@ -1,39 +1,15 @@
 ---
 title: "Às vezes a solução do problema..."
 date: 2025-04-30
+# modified: 2025-04-30
 # weight: 1
 # slug: solucoes-obvias-esquecidas
-# aliases: ["/posts/bluetooth-radio-pioneer"]
 tags: ["bluetooth", "pioneer"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "...está na nossa cara e passa batido."
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/pioneer-deh-s4080bt.png"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/pioneer-deh-s4080bt.png" # image path/url
-    alt: "Rádio automotivo Pioneer DEH-S4080BT." # alt text
-    caption: "Rádio automotivo Pioneer DEH-S4080BT." # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "...está na nossa cara e passa batido."
+featureimagecaption: "Rádio automotivo Pioneer DEH-S4080BT." # display caption under cover
 ---
 
 Impressionante como tudo sempre resolve dar pau quando a gente tá lascado, sem dinheiro nenhum pra gastar com dívidas novas, né? Se for algo que usamos quase diariamente então, piorou.

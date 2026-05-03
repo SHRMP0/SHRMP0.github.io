@@ -1,39 +1,15 @@
 ---
 title: "Sometimes a problem's solution..."
 date: 2025-04-30
+# modified: 2025-04-30
 # weight: 1
 slug: obvious-forgotten-solutions
-# aliases: ["/en/posts/bluetooth-radio-pioneer"]
 tags: ["bluetooth", "pioneer"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "...is hiding in plain sight, right under our noses."
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/pioneer-deh-s4080bt.en.png"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/pioneer-deh-s4080bt.en.png" # image path/url
-    alt: "Pioneer DEH-S4080BT car radio." # alt text
-    caption: "Pioneer DEH-S4080BT car radio." # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Suggest changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "...is hiding in plain sight, right under our noses."
+featureimagecaption: "Pioneer DEH-S4080BT car radio." # display caption under cover
 ---
 
 It's amazing how everything always ends up breaking down when we're broke and have no spare money to spend, right? If it's something we use almost daily, it's even worse.

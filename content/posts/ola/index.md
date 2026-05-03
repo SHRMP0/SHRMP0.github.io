@@ -1,39 +1,15 @@
 ---
 title: "Olá!"
 date: 2024-09-05
+# modified: 2024-09-05
 # weight: 1
 # slug: ola
-# aliases: ["/posts/first"]
 tags: ["etc"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
-showToc: false
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-bsky: "<bsky post url>" # link to your bsky post
 description: "Você me encontrou."
-disableShare: true
-disableHLJS: false # to disable highlightjs
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-# images: ["images/caridina-woltereckae-iucn.jpg"] # link or path of image for opengraph, twitter-cards
-cover:
-    image: "images/caridina-woltereckae-iucn.jpg" # image path/url
-    alt: "Um camarão da espécie Caridina woltereckae." # alt text
-    caption: "Um camarão da espécie Caridina woltereckae. Foto: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
-    relative: true # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/SHRMP0/SHRMP0.github.io/tree/main/content"
-    Text: "Sugerir mudanças" # edit text
-    appendFilePath: true # to append file path to Edit link
+summary: "Você me encontrou."
+featureimagecaption: "Um camarão da espécie Caridina woltereckae. Foto: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
 ---
 
 Parabéns... você mereceria um prêmio, se tivesse algo importante aqui.
