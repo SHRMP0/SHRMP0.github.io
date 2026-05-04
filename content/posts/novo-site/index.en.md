@@ -4,7 +4,7 @@ date: 2026-05-03
 # modified: 2026-05-03
 # weight: 1
 slug: new-website
-tags: ["etc"]
+tags: ["meta"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 draft: false
 description: "\"Oh no... anyway\""

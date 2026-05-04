@@ -4,7 +4,7 @@ date: 2026-05-03
 # modified: 2026-05-03
 # weight: 1
 # slug: novo-site
-tags: ["etc"]
+tags: ["meta"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 draft: false
 description: "\"vish kk\""

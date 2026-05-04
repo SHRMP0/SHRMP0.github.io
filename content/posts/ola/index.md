@@ -4,7 +4,7 @@ date: 2024-09-05
 # modified: 2024-09-05
 # weight: 1
 # slug: ola
-tags: ["etc"]
+tags: ["meta"]
 author: "SHRMP0" # ["Me", "You"] multiple authors
 draft: false
 description: "Você me encontrou."
