@@ -9,8 +9,9 @@ author: "SHRMP0" # ["Me", "You"] multiple authors
 draft: false
 description: "..."
 summary: "..."
-showHero: false
 # featureimagecaption: "<text>" # display caption under cover
+showHero: false
+showComments: false
 ---
 
 Há quinze anos atrás, no dia 5 de Dezembro de 2009, uma pessoa se despedia desse mundo. Mesmo não habitando mais esse plano, ela ainda vive na saudade e nas memórias daqueles que ficaram.

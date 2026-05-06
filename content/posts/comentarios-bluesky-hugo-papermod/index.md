@@ -10,6 +10,8 @@ draft: false
 description: "Um tutorial simples para aprender a transformar skeets na seção de comentários do seu site ou blog."
 summary: "Um tutorial simples para aprender a transformar skeets na seção de comentários do seu site ou blog."
 featureimagecaption: "Logos do Hugo e Bluesky." # display caption under cover
+showHero: true
+showComments: false
 ---
 
 Alguns dias atrás, uma das desenvolvedoras do Bluesky escreveu sobre os benefícios do Bluesky ser uma rede aberta [em seu blog](https://emilyliu.me/blog/open-network). Até aí tudo normal, a dev tá vendendo o peixe dela, o que tem demais nisso? Bom, acontece que a seção de comentários é um pouco diferente...

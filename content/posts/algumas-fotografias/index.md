@@ -10,6 +10,8 @@ draft: false
 description: "O título é autoexplicativo."
 summary: "O título é autoexplicativo."
 featureimagecaption: "Adesivo com um aviso em coreano: \"Cuidado, não operar utilizando salto-alto ou chinelos.\"" # display caption under cover
+showHero: true
+showComments: true
 ---
 
 Nada de especial, são literalmente apenas algumas fotografias que eu tirei usando o celular (na vertical mesmo) em algum momento no passado e quis repostar aqui. Como não tinha mais os arquivos originais, peguei do meu perfil no Bluesky e redimensionei, o que provavelmente explica os artefatos de compressão nas imagens.

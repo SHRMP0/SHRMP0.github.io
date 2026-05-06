@@ -10,6 +10,8 @@ draft: false
 description: "Devolvam a nossa diversão!"
 summary: "Devolvam a nossa diversão!"
 featureimagecaption: "Captura de tela do instalador do The Sims 2. Imagem: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
+showHero: true
+showComments: true
 ---
 
 **InstallShield Wizard**. Se você já instalou ou removeu algum jogo do seu computador com Windows XP, Vista ou 7, certamente deve ter lido esse nome alguma(s) vez(es) na sua vida. Não irei elaborar.

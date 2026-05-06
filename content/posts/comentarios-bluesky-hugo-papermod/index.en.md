@@ -10,6 +10,8 @@ draft: false
 description: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
 summary: "A simple tutorial to learn how to turn skeets into your website or blog's comments section."
 featureimagecaption: "Hugo and Bluesky logos." # display caption under cover
+showHero: true
+showComments: false
 ---
 
 A few days ago, one of Bluesky's developers wrote about the benefits of Bluesky being an open network [on her blog](https://emilyliu.me/blog/open-network). So far, so good; the dev is just marketing her own product, what's so big about that? Well, it turns out the comments section is a little different...

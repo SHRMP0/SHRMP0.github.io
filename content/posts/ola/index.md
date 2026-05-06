@@ -10,6 +10,8 @@ draft: false
 description: "Você me encontrou."
 summary: "Você me encontrou."
 featureimagecaption: "Um camarão da espécie Caridina woltereckae. Foto: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
+showHero: true
+showComments: false
 ---
 
 Parabéns... você mereceria um prêmio, se tivesse algo importante aqui.

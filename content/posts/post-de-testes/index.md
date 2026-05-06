@@ -10,6 +10,8 @@ draft: true
 description: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
 summary: "Se você está vendo isto na versão pública do site, algo de errado não está certo."
 featureimagecaption: "LEGENDA DA IMAGEM DE CAPA" # display caption under cover
+showHero: true
+showComments: true
 ---
 
 > "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."[^1]

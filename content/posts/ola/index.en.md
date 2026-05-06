@@ -10,6 +10,8 @@ draft: false
 description: "You found me."
 summary: "You found me."
 featureimagecaption: "A Caridina woltereckae shrimp. Photo: [C. Lukhaup](https://iucn.org/content/dead-shrimp-blues-imperilled-status-freshwater-shrimps)" # display caption under cover
+showHero: true
+showComments: false
 ---
 
 Congratulations... you'd deserve an award, if there was anything important here.

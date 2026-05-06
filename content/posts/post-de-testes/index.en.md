@@ -10,6 +10,8 @@ draft: true
 description: "If you're reading this on the site's public version, something went wrong."
 summary: "If you're reading this on the site's public version, something went wrong."
 featureimagecaption: "COVER IMAGE CAPTION" # display caption under cover
+showHero: true
+showComments: true
 ---
 
 > "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."[^1]

@@ -10,6 +10,8 @@ draft: false
 description: "...is hiding in plain sight, right under our noses."
 summary: "...is hiding in plain sight, right under our noses."
 featureimagecaption: "Pioneer DEH-S4080BT car radio." # display caption under cover
+showHero: true
+showComments: true
 ---
 
 It's amazing how everything always ends up breaking down when we're broke and have no spare money to spend, right? If it's something we use almost daily, it's even worse.

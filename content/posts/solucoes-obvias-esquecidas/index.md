@@ -10,6 +10,8 @@ draft: false
 description: "...está na nossa cara e passa batido."
 summary: "...está na nossa cara e passa batido."
 featureimagecaption: "Rádio automotivo Pioneer DEH-S4080BT." # display caption under cover
+showHero: true
+showComments: true
 ---
 
 Impressionante como tudo sempre resolve dar pau quando a gente tá lascado, sem dinheiro nenhum pra gastar com dívidas novas, né? Se for algo que usamos quase diariamente então, piorou.

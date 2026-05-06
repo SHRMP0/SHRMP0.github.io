@@ -10,6 +10,8 @@ draft: false
 description: "Bring the fun back!"
 summary: "Bring the fun back!"
 featureimagecaption: "The Sims 2 installer screenshot. Image: [wikiHow](https://fr.wikihow.com/installer-les-Sims-2)" # display caption under cover
+showHero: true
+showComments: true
 ---
 
 **InstallShield Wizard**. If you've ever installed or removed a game from your Windows XP, Vista, or 7 computer, you've probably heard this name at least once in your life. I will not elaborate.

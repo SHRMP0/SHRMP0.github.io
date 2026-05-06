@@ -10,6 +10,8 @@ draft: false
 description: "The title is self-explanatory."
 summary: "The title is self-explanatory."
 featureimagecaption: "Sticker with a warning in Korean: \"Caution, do not operate while wearing high heels or slippers.\"" # display caption under cover
+showHero: true
+showComments: true
 ---
 
 Nothing special, they're literally just some photos I took with my phone (vertically) sometime in the past and wanted to repost here. Since I no longer had the original files, I took them from my Bluesky profile and resized them, which probably explains the compression artifacts in the images.
