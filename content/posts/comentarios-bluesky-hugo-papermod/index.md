@@ -22,7 +22,7 @@ Após o :exploding_head: inicial, as pessoas queriam saber comofas pra utilizar 
 
 ## Demonstração
 
-~~Quer ver ao vivo como isso funciona? Fácil demais, vai lá no final dessa página. Que doideira da porra, né? E se quiser testar é só responder a esse skeet aqui no Bluesky, recarregar a página... e voilà!~~
+~~Quer ver ao vivo como isso funciona? Fácil demais, vai lá no final dessa página. Que doideira da porra, né? E se quiser testar é só responder a esse skeet aqui no Bluesky, recarregar a página... e voilà!~~ O sistema de comentários via Bluesky foi [substituido pelo giscus](https://shrmp0.com.br/posts/novo-site/). O tutorial original permanece disponível abaixo.
 
 A essa altura você deve estar pensando se vale mesmo a pena esse trabalho todo ou se é apenas firula, e a resposta, na minha opinião, é que compensa sim. Além de simplificar as coisas, como você está utilizando as APIs do próprio Bluesky e [Protocolo AT](https://atproto.com/), isso significa que:
 

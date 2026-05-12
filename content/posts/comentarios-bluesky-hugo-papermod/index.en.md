@@ -22,7 +22,7 @@ After the initial :exploding_head:, people wanted to know how to use skeets[^1] 
 
 ## Demonstration
 
-~~Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to this skeet on Bluesky, reload the page... and voilà!~~
+~~Want to see how this works? It's super easy, just go to the bottom of this page. Pretty crazy, right? And if you want to try it out, just reply to this skeet on Bluesky, reload the page... and voilà!~~ The Bluesky-based comments system has been [replaced by giscus](https://shrmp0.com.br/en/posts/new-website/). The original tutorial remains available below.
 
 At this point, you might be wondering if all this work is really worth it or if it's just a fluff, and the answer, in my opinion, is that it is. Besides simplifying things, since you're using Bluesky and [AT Protocol](https://atproto.com)'s own APIs, this means that:
 

@@ -21,4 +21,4 @@ Actually, this is a post just to let you know that da shrimp website now has a n
 {{< figure src="images/after.en.png" alt="Screenshot of the homepage with the current theme (Blowfish)." caption="Screenshot of the homepage with the current theme (Blowfish)." figureClass="grid-w50" >}}
 {{< /gallery >}}
 
-It's not 100% yet, there are a few things here and there that I want to tweak, but for now it's good enough.
+It's not 100% yet, there are a few things here and there that I want to tweak, but for now it's good enough. By the way, the [Bluesky-based comments system](https://shrmp0.com.br/en/posts/bluesky-comments-hugo-papermod/) has been replaced by [giscus](https://giscus.app/).

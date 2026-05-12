@@ -21,4 +21,4 @@ Na verdade, esse é um post só pra registrar que o saite do camarão agora tem 
 {{< figure src="images/after.png" alt="Captura de tela da página inicial com o tema atual (Blowfish)." caption="Captura de tela da página inicial com o tema atual (Blowfish)." figureClass="grid-w50" >}}
 {{< /gallery >}}
 
-Não ficou 100% ainda, tem umas coisinhas aqui e ali que eu quero ajustar melhor, mas por ora está bom o suficiente.
+Não ficou 100% ainda, tem umas coisinhas aqui e ali que eu quero ajustar melhor, mas por ora está bom o suficiente. A propósito, o sistema de [comentários via Bluesky](https://shrmp0.com.br/posts/comentarios-bluesky-hugo-papermod/) foi substituido pelo [giscus](https://giscus.app/).
