@@ -11,7 +11,7 @@ description: "\"vish kk\""
 summary: "\"vish kk\""
 # featureimagecaption: "<text>" # display caption under cover
 showHero: false
-showComments: false
+showComments: true
 ---
 
 Na verdade, esse é um post só pra registrar que o saite do camarão agora tem uma nova cara. Mas caso você não lembre do design antigo (ou nunca tenha acessado essa pocilga antes), confira o comparativo do antes e depois:

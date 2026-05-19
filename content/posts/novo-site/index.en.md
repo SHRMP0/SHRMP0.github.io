@@ -11,7 +11,7 @@ description: "\"Oh no... anyway\""
 summary: "\"Oh no... anyway\""
 # featureimagecaption: "<text>" # display caption under cover
 showHero: false
-showComments: false
+showComments: true
 ---
 
 Actually, this is a post just to let you know that da shrimp website now has a new look. But in case you don't remember the old design (or have never accessed this filthy place before), check out the before and after comparison:
