@@ -17,8 +17,18 @@
   {{ end }}
 
   {{/* Metadata */}}
-  {{ with (.Params.Summary | default .Params.Description) | default .Site.Params.description }}
-    <meta name="description" content="{{ . }}">
+  {{ $metaDescriptionOrder := .Site.Params.seo.metaDescriptionOrder | default (slice "summary" "description" "site") }}
+  {{ $metaDescriptionSources := dict
+    "summary" .Params.Summary
+    "description" .Params.Description
+    "site" .Site.Params.description
+  }}
+  {{ $metaDescription := "" }}
+  {{ range $metaDescriptionOrder }}
+    {{ $metaDescription = $metaDescription | default (index $metaDescriptionSources (lower .)) }}
+  {{ end }}
+  {{ with $metaDescription }}
+    <meta name="description" content="{{ . | plainify }}">
   {{ end }}
   {{ with  .Params.Tags | default .Site.Params.keywords }}
     <meta name="keywords" content="{{ range . }}{{ . }},{{ end }}">
@@ -32,7 +42,7 @@
   <link rel="canonical" href="{{ .Permalink }}">
   {{ if .IsTranslated }}
     {{ range .AllTranslations }}
-      {{ $hreflang := .Language.LanguageCode | default .Language.Lang }}
+      {{ $hreflang := .Language.Locale | default .Language.Lang }}
       {{ if $hreflang }}
         <link rel="alternate" hreflang="{{ $hreflang }}" href="{{ .Permalink }}">
       {{ end }}
@@ -129,6 +139,7 @@
     type="text/javascript"
     src="{{ $jsAppearance.RelPermalink }}"
     integrity="{{ $jsAppearance.Data.Integrity }}"></script>
+  {{ partial "language-redirect.html" . }}
   {{ $enableA11y := .Site.Params.enableA11y | default false }}
   {{ if $enableA11y }}
     {{ $jsA11y := resources.Get "js/a11y.js" | resources.Minify | resources.Fingerprint $alg }}
@@ -154,7 +165,9 @@
     {{ $jsResources = $jsResources | append (resources.Get "js/scroll-to-top.js") }}
   {{ end }}
   {{ if .Site.Params.enableSearch | default false }}
-    {{ $jsResources = $jsResources | append (resources.Get "lib/fuse/fuse.min.js") | append (resources.Get "js/search.js") }}
+    {{ $fuseRaw := resources.Get "lib/fuse/fuse.min.cjs" }}
+    {{ $fuse := resources.FromString "lib/fuse/fuse.min.js" (replace $fuseRaw.Content "module.exports=" "window.Fuse=") }}
+    {{ $jsResources = $jsResources | append $fuse | append (resources.Get "js/search.js") }}
   {{ end }}
   {{ if .Site.Params.enableCodeCopy | default false }}
     {{ $jsResources = $jsResources | append (resources.Get "js/code.js") }}
